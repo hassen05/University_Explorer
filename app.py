@@ -7,7 +7,7 @@ import os
 @st.cache_resource
 def get_database():
     """Connect to MongoDB and return the database object."""
-    client = pymongo.MongoClient("mongodb://localhost:27017/")
+    client = pymongo.MongoClient("mongodb://localhost:27017/", serverSelectionTimeoutMS=5000)
     return client["university_data"]
 
 @st.cache_data
@@ -15,7 +15,6 @@ def load_universities():
     """Load university data from MongoDB."""
     db = get_database()
     collection = db["universities"]
-    # Assuming the universities are stored as key-value pairs, where keys like '0' are used
     return collection.find_one()
 
 # Custom CSS for enhanced styling
