@@ -7,8 +7,7 @@ import os
 @st.cache_resource
 def get_database():
     """Connect to MongoDB and return the database object."""
-    mongo_uri = st.secrets["general"]["MONGO_URI"]
-    client = pymongo.MongoClient(mongo_uri, serverSelectionTimeoutMS=5000)
+    client = pymongo.MongoClient("mongodb://localhost:27017/", serverSelectionTimeoutMS=5000)
     return client["university_data"]
 
 @st.cache_data
