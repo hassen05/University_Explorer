@@ -1,0 +1,2088 @@
+{
+    "0": {
+      "university_name": "Université de Tunis",
+      "image": "Universities/Tunis.png",
+      "link": "UniversityTunis",
+      "Faculties": {
+        "Faculté des Sciences Humaines et Sociales de Tunis": {
+          "faculty_name": "Faculté des Sciences Humaines et Sociales de Tunis",
+          "faculty_link": "Universite-de-Tunis/faculte-des-sciences-humaines-et-sociales-de-tunis.html",
+          "degrees": [
+            "LA en Aménagement territorial",
+            "LA en Education spécialisée",
+            "LA en Anglais (Anglais des Affaires)",
+            "LA en Français",
+            "LA en Géographie",
+            "LF en Histoire-Geographie",
+            "LF en philosophie",
+            "LA en Psychologie (Psychologie / Psychomotricité)",
+            "LA en sociologie (Sociologie / Démographie)",
+            "LF en langue, littérature et civilisation françaises",
+            "LF en langue, littérature et civilisation anglaises",
+            "LF en langue, littérature et civilisation arabes",
+            "Philosophie",
+            "Arabe",
+            "Géographie",
+            "Histoire",
+            "Psychologie appliquée, option : Psychologie clinique",
+            "Sociologie",
+            "Psychologie du développement et de l'éducation :",
+            "Psychologie sociale",
+            "Psychologie clinique",
+            "Philosophie contemporaine",
+            "Philosophie",
+            "Langue, littérature et civilisation arabe",
+            "Histoire du monde contemporain",
+            "Histoire des temps modernes",
+            "Histoire des civilisations médiévales",
+            "Histoire des civilisations anciennes et leurs vestiges",
+            "Géomorphologie et environnement",
+            "Espaces Sociétés et territoires",
+            "Démographie",
+            "Connaissance du patrimoine et développement culturel"
+          ]
+        },
+        "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis": {
+          "faculty_name": "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis",
+          "faculty_link": "Universite-de-Tunis/ecole-superieure-des-sciences-economiques-et-commerciales-de-tunis.html",
+          "degrees": [
+            "LA en Economie des organisations et des réseaux (Economie de l'information et des réseaux)",
+            "LA en Marketing (Web Marketing)",
+            "LA en management (Gestion des entreprises exportatrices)",
+            "LA en Economie et Finance internationales (Techniques du Commerce international)",
+            "LA en Comptabilité (Techniques comptables et fiscales)",
+            "L.A. en Informatique de gestion",
+            "LF en Gestion (Management / Marketing / Comptabilité / Finance)",
+            "LF en Economie (Monnaie, finance et banque)",
+            "L'entreprises et le marché européen. (En collaboration avec l'institut supérieur de gestion de Tunis)"
+          ]
+        },
+        "Ecole Normale Supérieure": {
+          "faculty_name": "Ecole Normale Supérieure",
+          "faculty_link": "Universite-de-Tunis/ecole-normale-superieure.html",
+          "degrees": []
+        },
+        "Ecole Supérieure des Sciences et Techniques de Tunis": {
+          "faculty_name": "Ecole Supérieure des Sciences et Techniques de Tunis",
+          "faculty_link": "Universite-de-Tunis/ecole-superieure-des-sciences-et-techniques-de-tunis.html",
+          "degrees": [
+            "Cycle préparatoire technique",
+            "LA en génie mécanique (productique)",
+            "LA en Chimie (Chimie industrielle)",
+            "LA en Informatique (Systèmes informatiques et logiciels)",
+            "LA en génie civil (Bâtiment et environnement)",
+            "LA en Physique (Instrumentation)",
+            "LA en Electronique / Electrotechnique et automatique (Electrotechnique et Electronique industrielle)",
+            "Licence appliquée de physique (matériaux)",
+            "LA en Mathématiques",
+            "LF en sciences de l'informatique",
+            "LF en Electronique, Electrotechnique et Automatique (Automatique et Informatique industrielle / Electrotechnique et Electronique de puissance)",
+            "LF en génie mécanique (matériaux et procédés de production ; conception et fabrication",
+            "Qualité et productivité",
+            "Management des constructions civiles",
+            "Génie des procédés de production mécanique",
+            "Electrotechnique et systèmes industriels",
+            "Automatique et productique"
+          ]
+        },
+        "Institut Préparatoire aux Etudes d'Ingénieurs de Tunis": {
+          "faculty_name": "Institut Préparatoire aux Etudes d'Ingénieurs de Tunis",
+          "faculty_link": "Universite-de-Tunis/institut-preparatoire-aux-etudes-d-ingenieurs-de-tunis.html",
+          "degrees": [
+            "Physique & Chimie",
+            "Math. & Physique"
+          ]
+        },
+        "Institut Préparatoire aux Etudes Littéraires et de Sciences Humaines de Tunis": {
+          "faculty_name": "Institut Préparatoire aux Etudes Littéraires et de Sciences Humaines de Tunis",
+          "faculty_link": "Universite-de-Tunis/institut-preparatoire-aux-etudes-litteraires-et-de-sciences-humaines-de-tunis.html",
+          "degrees": [
+            "LA EN ANGLAIS",
+            "L.A en Français",
+            "LF en Histoire-Geographie",
+            "LF en langue, littérature et civilisation anglaises",
+            "LF en langue, littérature et civilisation françaises",
+            "Sciences humaines : Histoire - Géographie & Philosophie",
+            "Langues et littératures : Français, Arabe, Anglais"
+          ]
+        },
+        "Institut Supérieur de Gestion de Tunis": {
+          "faculty_name": "Institut Supérieur de Gestion de Tunis",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-de-gestion-de-tunis.html",
+          "degrees": [
+            "LA en Marketing (Relations commerciales et distribution)",
+            "LA en Monnaie, Finance et Banque (Ingénierie économique et financière)",
+            "LA en Management (Management intégré: qualité et sécurité de l'environnement)",
+            "LA en Economie et Finance internationales (Techniques du Commerce international)",
+            "LF en Gestion (Comptabilité / Marketing / Gestion des ressources humaines / management / Finance)",
+            "LF en Informatique de gestion",
+            "Révision comptable",
+            "Ingénierie et management des associations",
+            "Ingénierie de la formation",
+            "Informatique appliquée à  la gestion",
+            "Gestion de la qualité totale",
+            "Commerce international",
+            "Prévision des systèmes économiques et des marchés financiers",
+            "Modélisation",
+            "Marketing",
+            "Informatique de gestion",
+            "Gestion des ressources humaines",
+            "Finance",
+            "Comptabilité et systèmes d'information"
+          ]
+        },
+        "Institut Supérieur de l'Education et de la Formation Continue": {
+          "faculty_name": "Institut Supérieur de l'Education et de la Formation Continue",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-de-l-education%20et-de-la-formation-continue.html",
+          "degrees": [
+            "Nouvelles technologies éducatives",
+            "Information et orientation scolaire et universitaire",
+            "Activités physiques et sportives",
+            "Didactique des disciplines: options :Sciences physiques et techniques",
+            "Didactique des disciplines: options : Mathématiques",
+            "Didactique des disciplines: options : Histoire & Géographie",
+            "Didactique des disciplines: options : Français",
+            "Didactique des disciplines: options : Sciences biologiques et géologiques",
+            "Didactique des disciplines: options : Arabe"
+          ]
+        },
+        "Institut Supérieur des Beaux Arts de Tunis": {
+          "faculty_name": "Institut Supérieur des Beaux Arts de Tunis",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-des-beaux-arts-de-tunis.html",
+          "degrees": [
+            "LA en Design Produit (Création artisanale / Création industrielle)",
+            "LA en Design Espace (Architecture d'intérieur)",
+            "LA en Design Image (Publicité graphique)",
+            "LA en Arts Plastiques (Art mural / Céramique / Photographie / Sculpture / Textile)",
+            "LF en Design (Image / Espace / Produit)",
+            "LF en Arts Visuels (arts plastiques)",
+            "Sciences et techniques des arts, option : Théorie de l'art",
+            "Sciences et techniques des arts, option : Arts et métiers",
+            "Sciences et techniques des arts, option : Arts plastiques",
+            "Art et métiers, option :Architecture d'intérieur et scénographie",
+            "Art et métiers, option :Art, Artisanat, Industrie",
+            "Art et métiers, option :Art et communication"
+          ]
+        },
+        "Institut Supérieur de Musique": {
+          "faculty_name": "Institut Supérieur de Musique",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-de-musique.html",
+          "degrees": [
+            "LA Interprétation de la musique occidentale",
+            "LA Interprétation de la musique arabe",
+            "LF en Arts de la musique et musicologie",
+            "Sciences culturelles option Musique"
+          ]
+        },
+        "Institut Supérieur d'Art Dramatique": {
+          "faculty_name": "Institut Supérieur d'Art Dramatique",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-d-art-dramatique.html",
+          "degrees": [
+            "LA en Techniques du Théâtre et des Arts de la Scène (Techniques du son / Techniques d'éclairage)",
+            "LA en Théâtre et Arts de la Scène (Arts de la Marionnette)",
+            "LA en Production Dramatique",
+            "LF en Théâtre et Arts de la Scène (Arts du Comédien / Théâtre Jeune lic)",
+            "Sciences culturelles option théâtre"
+          ]
+        },
+        "Institut Supérieur des Sciences Culturelles et Métiers du Patrimoine de Tunis": {
+          "faculty_name": "Institut Supérieur des Sciences Culturelles et Métiers du Patrimoine de Tunis",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-des-sciences-culturelles-et-metiers-du-patrimoine-de-tunis.html",
+          "degrees": [
+            "LA en Arts et Techniques de Décoration Patrimoiniale",
+            "LA en Patrimoine (patrimoine naturel)",
+            "LA en Techniques de documentation et de développement du patrimoine"
+          ]
+        },
+        "Institut Supérieur des Etudes Appliquées en Humanités de Tunis": {
+          "faculty_name": "Institut Supérieur des Etudes Appliquées en Humanités de Tunis",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-des-etudes-appliquees-en-humanites-de-tunis.html",
+          "degrees": [
+            "LA en Allemand",
+            "LA en Anglais (Anglais des Affaires)",
+            "LA en Animation touristique"
+          ]
+        },
+        "Institut Supérieur de l'Animation pour la Jeunesse et la Culture": {
+          "faculty_name": "Institut Supérieur de l'Animation pour la Jeunesse et la Culture",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-de-l-animation-pour-la-jeunesse-et-la-culture.html",
+          "degrees": [
+            "LA en Animation touristique",
+            "LA en Animation culturelle et de la jeunesse (Animation de la jeunesse / Animation culturelle)",
+            "Sciences culturelles option animation et loisirs"
+          ]
+        },
+        "Institut Supérieur des études Appliquées en Humanités de Zaghouan": {
+          "faculty_name": "Institut Supérieur des études Appliquées en Humanités de Zaghouan",
+          "faculty_link": "Universite-de-Tunis/institut-superieur-des-etudes-appliquees-en-humanites-de-zaghouan.html",
+          "degrees": [
+            "LA en Français (français appliqué à la communication)",
+            "LA en Anglais"
+          ]
+        },
+        "Institut National du Patrimoine": {
+          "faculty_name": "Institut National du Patrimoine",
+          "faculty_link": "Universite-de-Tunis/institut-national-du-patrimoine.html",
+          "degrees": []
+        },
+        "Tunis Business School": {
+          "faculty_name": "Tunis Business School",
+          "faculty_link": "Universite-de-Tunis/tunis-business-school.html",
+          "degrees": []
+        }
+      }
+    },
+    "1": {
+      "university_name": "Université Ez-Zitouna",
+      "image": "Universities/zitouna.png",
+      "link": "UniversityZitouna",
+      "Faculties": {
+        "Institut Supérieur de Théologie de Tunis": {
+          "faculty_name": "Institut Supérieur de Théologie de Tunis",
+          "faculty_link": "Universite-Ez-Zitouna/institut-superieur-de-theologie-de-tunis.html",
+          "degrees": [
+            "LA en Arts du patrimoine islamique",
+            "LA en multimédia appliqué aux arts islamiques",
+            "LF en Sciences Théologiques et Pensée Islamique",
+            "Théologie",
+            "Civilisation islamique",
+            "Sciences religieuses"
+          ]
+        },
+        "Institut Supérieur de Civilisation Islamique de Tunis": {
+          "faculty_name": "Institut Supérieur de Civilisation Islamique de Tunis",
+          "faculty_link": "Universite-Ez-Zitouna/institut-superieur-de-civilisation-islamique-de-tunis.html",
+          "degrees": [
+            "LF en sciences islamiques"
+          ]
+        },
+        "Centre d'études Islamiques de Kairouan": {
+          "faculty_name": "Centre d'études Islamiques de Kairouan",
+          "faculty_link": "Universite-Ez-Zitouna/centre-de-etudes-islamiques-de-kairouan.html",
+          "degrees": []
+        }
+      }
+    },
+    "2": {
+      "university_name": "Université de Monastir",
+      "image": "Universities/Monastir.jpg",
+      "link": "UniversityMonastir",
+      "Faculties": {
+        "Faculté des Sciences de Monastir": {
+          "faculty_name": "Faculté des Sciences de Monastir",
+          "faculty_link": "Universite-de-Monastir/faculte-des-sciences-de-monastir.html",
+          "degrees": [
+            "LA en Chimie (chimie fine)",
+            "LA en Chimie (chimie matériaux plastiques)",
+            "LA en Chimie (analyse et traitement des eaux, analyse physio-chimique)",
+            "Cycle préparatoire (scientifique)",
+            "LA en Sciences Physiques",
+            "LA en Physique (Instrumentation)",
+            "LA en Réseaux informatiques (Technologies des réseaux informatique)",
+            "LF en Sciences de l'informatique",
+            "LF en Mathématiques (Mathématiques, Mathématiques et applications)",
+            "LF en Chimie",
+            "LF en Physique",
+            "Physico-chimie de la matière condensée",
+            "Mathématiques",
+            "Matériaux, dispositifs et systèmes microélectroniques",
+            "Informatique",
+            "Chimie organique appliquée"
+          ]
+        },
+        "Faculté de Médecine de Monastir": {
+          "faculty_name": "Faculté de Médecine de Monastir",
+          "faculty_link": "Universite-de-Monastir/faculte-de-medecine-de-monastir.html",
+          "degrees": [
+            "Diplôme national de docteur en médecine"
+          ]
+        },
+        "Institut Supérieur d'Informatique et de Mathématiques de Monastir": {
+          "faculty_name": "Institut Supérieur d'Informatique et de Mathématiques de Monastir",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-d-informatique-et-de-mathematiques-de-monastir.html",
+          "degrees": [
+            "LA en Informatique de gestion (technologie systèmes d'informations)",
+            "LA en sciences et technologies de l'information et de la communication (tech, électronique et télécommunications)",
+            "LA en Mathématiques",
+            "LF en Sciences de l'informatique",
+            "LF en STIC (Electronique)",
+            "LA en Informatique (Systèmes informatiques et logiciels)"
+          ]
+        },
+        "Faculté de Médecine Dentaire de Monastir": {
+          "faculty_name": "Faculté de Médecine Dentaire de Monastir",
+          "faculty_link": "Universite-de-Monastir/faculte-de-medecine-dentaire-de-monastir.html",
+          "degrees": [
+            "Diplôme national de docteur en médecine dentaire"
+          ]
+        },
+        "Faculté de Pharmacie de Monastir": {
+          "faculty_name": "Faculté de Pharmacie de Monastir",
+          "faculty_link": "Universite-de-Monastir/faculte-de-pharmacie-de-monastir.html",
+          "degrees": [
+            "Développement des médicaments",
+            "Biotechnologie et immunologie appliquées aux maladies transmissibles",
+            "Biologie des maladies vasculaires",
+            "Diplôme national de docteur en pharmacie"
+          ]
+        },
+        "Faculté des Sciences Economiques et de Gestion de Mahdia": {
+          "faculty_name": "Faculté des Sciences Economiques et de Gestion de Mahdia",
+          "faculty_link": "Universite-de-Monastir/faculte-des-sciences-economiques-et-de-gestion-de-mahdia.html",
+          "degrees": [
+            "LA en Marketing (Web marketing)",
+            "LA en Comptabilité (Techniques comptables et financières)",
+            "LA en Informatique de gestion (Commerce Electronique)",
+            "LA en Monnaie, Finance et Banque (Techniques d'Assurance)",
+            "LF en Economie (Monnaie, finance et banque)",
+            "LF en gestion (Finance / Management)",
+            "Méthodes quantitatives",
+            "Méthodes scientifiques de gestion"
+          ]
+        },
+        "Ecole Nationale d'Ingénieurs de Monastir": {
+          "faculty_name": "Ecole Nationale d'Ingénieurs de Monastir",
+          "faculty_link": "Universite-de-Monastir/ecole-nationale-d-ingenieurs-de-monastir.html",
+          "degrees": [
+            "Génie textile",
+            "Génie mécanique",
+            "Génie énergétique",
+            "Automatique et maintenance industrielle, option : Maintenance industrielle",
+            "Automatique et maintenance industrielle, option : Automatique",
+            "Diplôme national d'ingénieur en génie textile : option : Production textile",
+            "Diplôme national d'ingénieur en génie textile : option : Production habillement",
+            "Diplôme national d'ingénieur en génie textile : option : Chimie textile",
+            "Diplôme national d'ingénieur en génie mécanique :option : Production",
+            "Diplôme national d'ingénieur en génie mécanique :option : Conception",
+            "Diplôme national d'ingénieur en génie énergétique :option : Systèmes thermiques",
+            "Diplôme national d'ingénieur en génie énergétique :option : Energie et environnement",
+            "Diplôme national d'ingénieur en génie électrique :option : Informatique industrielle",
+            "Diplôme national d'ingénieur en génie électrique :option : Electrotechnique",
+            "Diplôme national d'ingénieur en génie électrique :option : Electronique industrielle"
+          ]
+        },
+        "Institut Supérieur de Biotechnologie de Monastir": {
+          "faculty_name": "Institut Supérieur de Biotechnologie de Monastir",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-de-biotechnologie-de-monastir.html",
+          "degrees": [
+            "LA en Agroalimentaire et nutrition (Contrôle de la qualité des aliments)",
+            "LA en Biotechnologie (Biotechnologie marine et aquaculture / Biotechnologie appliquée au secteur de la santé)",
+            "LF en Sciences de la vie (biologie cellulaire et moléculaire et biotechnologie)",
+            "Biotechnologies appliquées aux bioressources aquatiques",
+            "Qualité alimentaire et bioprocédés d'analyse",
+            "Génome humain",
+            "Génétique et biodiversité aquatique",
+            "Conservation et valorisation des ressources végétales",
+            "Biologie et santé",
+            "Aquaculture et biotechnologie marine"
+          ]
+        },
+        "Institut Préparatoire aux Etudes d'Ingénieurs de Monastir": {
+          "faculty_name": "Institut Préparatoire aux Etudes d'Ingénieurs de Monastir",
+          "faculty_link": "Universite-de-Monastir/institut-preparatoire-aux-etudes-d-ingenieurs-de-monastir.html",
+          "degrees": [
+            "Technique",
+            "Physique-Chimie",
+            "Math-Physique"
+          ]
+        },
+        "Ecole Supérieure des Sciences et Techniques de la Santé de Monastir": {
+          "faculty_name": "Ecole Supérieure des Sciences et Techniques de la Santé de Monastir",
+          "faculty_link": "Universite-de-Monastir/ecole-superieure-des-sciences-et-techniques-de-la-sante-de-monastir.html",
+          "degrees": []
+        },
+        "Institut Supérieur des Etudes Appliquées en Humanités de Mahdia": {
+          "faculty_name": "Institut Supérieur des Etudes Appliquées en Humanités de Mahdia",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-des-etudes-appliquees-en-humanites-de-mahdia.html",
+          "degrees": [
+            "LA en Animation touristique",
+            "LA en Allemand",
+            "LA en Italien"
+          ]
+        },
+        "Institut Supérieur des Métiers de la Mode de Monastir": {
+          "faculty_name": "Institut Supérieur des Métiers de la Mode de Monastir",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-des-metiers-de-la-mode-de-monastir.html",
+          "degrees": [
+            "LA en Administration des affaires (secteur du textile et de la mode)",
+            "LA en Design produit (Accessoires de mode)",
+            "LA en Design produit (Textile)",
+            "LA en Design produit (Habillement)"
+          ]
+        },
+        "Institut Supérieur d'Informatique de Mahdia": {
+          "faculty_name": "Institut Supérieur d'Informatique de Mahdia",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-d-informatique-de-mahdia.html",
+          "degrees": [
+            "LA en réseaux informatiques (Technologies des réseaux informatiques)",
+            "LA en Informatique (Systèmes informatiques et logiciels)"
+          ]
+        },
+        "Institut Supérieur des Arts et Métiers de Mahdia": {
+          "faculty_name": "Institut Supérieur des Arts et Métiers de Mahdia",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-des-arts-et-metiers-de-mahdia.html",
+          "degrees": [
+            "LA en Design Produit (Création artisanale / Bijoux)"
+          ]
+        },
+        "Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia": {
+          "faculty_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-des-sciences-appliquees-et-de-technologie-de-mahdia.html",
+          "degrees": [
+            "LA en Agroalimentaire et nutrition (Contrôle de la qualité des aliments)",
+            "Cycle préparatoire (MP)",
+            "LA en Science TIC (Electronique et Télécommunications)",
+            "LA en Physique"
+          ]
+        },
+        "Institut Supérieur des Langues Appliquées aux Affaires et au Tourisme de Moknine": {
+          "faculty_name": "Institut Supérieur des Langues Appliquées aux Affaires et au Tourisme de Moknine",
+          "faculty_link": "Universite-de-Monastir/institut-superieur-des-langues-appliquees-aux-affaires-et-au-tourisme-de-moknine.html",
+          "degrees": [
+            "LA en Espagnol (Tourisme et Patrimoine)",
+            "LA en animation touristique",
+            "LA en Anglais (Anglais des affaires)",
+            "LA en Français (Techniques de gestion et d'administration)"
+          ]
+        }
+      }
+    },
+    
+      "3":
+      {
+        "university_name": "Université de Carthage",
+        "link": "UniversityCarthage",
+        "image": "Universities/Carthage.jpg",
+
+        "Faculties": {
+          "www.ucar.rnu.tn": {
+            "faculty_name": "www.ucar.rnu.tn",
+            "faculty_link": "http://www.ucar.rnu.tn/",
+            "degrees": []
+          },
+          "Faculté des Sciences Juridiques, Politiques et Sociales de Tunis": {
+            "faculty_name": "Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",
+            "faculty_link": "Universite-de-Carthage/faculte-des-sciences-juridiques-politiques-et-sociales-de-tunis.html",
+            "degrees": [
+              "LA en Droit du commerce international",
+              "LA en Contentieux administratif et fiscal",
+              "LA en Droit fiscal",
+              "LF en Droit Privé",
+              "LF en Droit Public",
+              "Droit fiscal",
+              "Droit foncier",
+              "Droit des entreprises",
+              "Droit de propriété intellectuelle",
+              "Sciences politiques",
+              "Sciences juridiques fondamentales",
+              "Droit Public et financier",
+              "Droit des affaires",
+              "Droit de l'environnement et de l'aménagement de l'espace",
+              "Droit communautaire et relations Maghreb-Europe",
+              "Common-law"
+            ]
+          },
+          "Faculté des Sciences de Bizerte": {
+            "faculty_name": "Faculté des Sciences de Bizerte",
+            "faculty_link": "Universite-de-Carthage/faculte-des-sciences-de-bizerte.html",
+            "degrees": [
+              "LA en Protection de l'Environnement (Contrôle biologique dans les milieux acquatiques)",
+              "LA en Réseaux Informatiques (technologies des réseaux & télécommunications)",
+              "LA en Agroalimentaire et nutrition (Contrôle de la qualité des aliments)",
+              "LA en chimie (Chimie industrielle/ Chimie fine/chimie du plastique)",
+              "L.A en Sciences de la nature",
+              "LA en Physique des matériaux",
+              "LA en Electronique et électrotechnique et automatique (Systèmes Electroniques)",
+              "LA Ressources géologiques & environnement",
+              "LA en Energétique (Energétique)",
+              "LF en Sciences de la Terre",
+              "LF en Sciences de la vie",
+              "LF en Physique",
+              "LF en Chimie",
+              "LF en Sciences de l'informatique",
+              "LF en Mathématiques (Mathématiques, Mathématiques et applications)",
+              "Analyses biologiques et chimiques : applications à l'environnement",
+              "Substances naturelles",
+              "Sciences de l'environnement",
+              "Mathématiques",
+              "Matériaux : propriétés et analyses",
+              "Géologie appliquée",
+              "Chimie supra moléculaire",
+              "Chimie physique"
+            ]
+          },
+          "Faculté des Sciences Economiques et de Gestion de Nabeul": {
+            "faculty_name": "Faculté des Sciences Economiques et de Gestion de Nabeul",
+            "faculty_link": "Universite-de-Carthage/faculte-des-sciences-economiques-et-de-gestion-de-nabeul.html",
+            "degrees": [
+              "LA en Economie & Gestion quantitatives (Techniques quantitatives de gestion de la qualité)",
+              "LA en gestion des affaires (gestion hôtelière et touristique)",
+              "LA en Comptabilité (Organisation de la comptabilité et des finances)",
+              "LA en Economie et Finance internationales (Techniques du Commerce international)",
+              "LA en Informatique de gestion (Commerce Electronique)",
+              "LF en Informatique de Gestion",
+              "LF en Gestion (Finance / Comptabilité / Marketing)",
+              "LF en Economie (Economie et gestion quantitatives / Economie des organisations et des réseaux / monnaie, finance et Banque)"
+            ]
+          },
+          "Ecole Nationale d'Architecture et d'Urbanisme de Tunis": {
+            "faculty_name": "Ecole Nationale d'Architecture et d'Urbanisme de Tunis",
+            "faculty_link": "Universite-de-Carthage/ecole-nationale-d-architecture-et-d-urbanisme-de-tunis.html",
+            "degrees": [
+              "Urbanisme",
+              "Architecture du patrimoine",
+              "Urbanisme et aménagement du territoire",
+              "Architecture, option: Sciences des lieux",
+              "Architecture, option: Environnement et développement durable"
+            ]
+          },
+          "Ecole Polytechnique de Tunisie": {
+            "faculty_name": "Ecole Polytechnique de Tunisie",
+            "faculty_link": "Universite-de-Carthage/ecole-polytechnique-de-tunisie.html",
+            "degrees": [
+              "Modélisation économique et économétrie",
+              "Mécanique des matériaux",
+              "Ingénierie mathématique",
+              "Computational mechanics",
+              "Biotechnologie et bio-informatique"
+            ]
+          },
+          "Ecole Supérieure de Technologie et d'Informatique à Carthage": {
+            "faculty_name": "Ecole Supérieure de Technologie et d'Informatique à Carthage",
+            "faculty_link": "Universite-de-Carthage/ecole-superieure-de-technologie-et-d-informatique-a-carthage.html",
+            "degrees": [
+              "LA en Electronique, Electrotechnique et Automatique (Automatismes et mécatronique)",
+              "LA en Management des systèmes industriels (Management de la maintenance industrielle)",
+              "LA en informatique appliquée à la gestion (management de projet)",
+              "LA en Biotechnologie",
+              "L.A en génie mécanique (fabrication assistée par ordinateur)",
+              "LF en Hygiène, sécurité et environnement",
+              "LF en Techniques de l'Informatique (Informatique Industrielle, Informatique de gestion, Informatique Réseaux et Télécommunications)"
+            ]
+          },
+          "Ecole Supérieure des Beaux Arts de Nabeul": {
+            "faculty_name": "Ecole Supérieure des Beaux Arts de Nabeul",
+            "faculty_link": "Universite-de-Carthage/ecole-superieure-des-beaux-arts-de-nabeul.html",
+            "degrees": [
+              "LA en Design Produit (Création artisanale)",
+              "LA en Design Textile (Décoration et ameublement)",
+              "LA en Design Image (Publicité graphique / Publicité audiovisuelle)",
+              "LA en Arts Plastiques (Arts plastiques et visuels)",
+              "LA en Artisanat et Métiers d'art (Céramique)"
+            ]
+          },
+          "Faculté des Lettres de Nabeul": {
+            "faculty_name": "Faculté des Lettres de Nabeul",
+            "faculty_link": "Universite-de-Carthage/faculte-des-lettres-de-nabeul.html",
+            "degrees": [
+              "LF en Linguistique",
+              "LF en Histoire",
+              "LF en Archéologie",
+              "LF en Géographie",
+              "LF en Anthropologie",
+              "LF en Sciences de l'Information et de la Communication",
+              "LF en Civilisations et Langues Anciennes",
+              "LF en Langues et Littératures Arabes",
+              "LF en Langue et Littérature françaises",
+              "LF en Langue, Littérature et Civilisation anglaises",
+              "LF en Philosophie",
+              "LF en Lettres classiques"
+            ]
+          }
+        }
+      },
+      
+        "4": {
+          "university_name": "Université de Tunis El Manar",
+          "link": "UniversityManar",
+          "image": "Universities/Manar.jpg",
+
+          "Faculties": {
+            "Faculté de Droit et des Sciences Politiques de Tunis": {
+              "faculty_name": "Faculté de Droit et des Sciences Politiques de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/faculte-de-droit-et-des-sciences-politiques-de-tunis.html",
+              "degrees": [
+                "LA en Droit des affaires foncières",
+                "LA en Fiscalité de l'entreprise",
+                "LA en Droit de l'Entreprise et des affaires",
+                "LA en Contentieux administratif et fiscal",
+                "LF en Droit Privé",
+                "LF en Droit Public",
+                "Droit et technologies de l'information et de la communication",
+                "Droit de la propriété intellectuelle",
+                "Sciences politiques",
+                "Sciences criminelles",
+                "Droit Public interne",
+                "Droit des affaires",
+                "Droit privé",
+                "Droit Public international",
+                "Droit des contrats et des investissements",
+                "Droit de l'environnement et de l'urbanisme"
+              ]
+            },
+            "Faculté des Sciences Economique et de Gestion de Tunis": {
+              "faculty_name": "Faculté des Sciences Economique et de Gestion de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/faculte-des-sciences-economique-et-de-gestion-de-tunis.html",
+              "degrees": [
+                "LA en comptabilité (gestion comptable)",
+                "LF en Informatique de gestion",
+                "LA en Finance (gestion des opérations post marchés financiers)",
+                "LA en Marketing (distribution et techniques de vente)",
+                "LA en Economie et Finance internationales (Techniques du Commerce international)",
+                "LA en Management (gestion des petites et moyennes entreprises)",
+                "LA en Economie et gestion quantitatives (Ingénierie des Informations économiques et statistiques / Ingénierie des risques : Finance, banque et assurance",
+                "LA en Monnaie, Finance et banque (Techniques bancaires et financières)",
+                "LF en Gestion (Management / Marketing / Finance / Comptabilité)",
+                "LF en Economie (Economie et gestion quantitatives / Economie et finance internationales / Economie des Organisations et des Réseaux / Monnaie, finance",
+                "Economie d'énergie",
+                "Statistiques appliquées",
+                "Marketing des affaires internationales",
+                "e-Management",
+                "Banque et marchés financiers",
+                "Management",
+                "Marketing",
+                "Finance",
+                "Economie monétaire et bancaire",
+                "Economie mathématique et économétrie",
+                "Economie et finance internationales",
+                "Sciences économiques"
+              ]
+            },
+            "Faculté des sciences de tunis": {
+              "faculty_name": "Faculté des sciences de tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/faculte-des-sciences-de-tunis.html",
+              "degrees": [
+                "Cycle préparatoire (biologie-géologie)",
+                "Cycle préparatoire (PC)",
+                "Cycle préparatoire (MP)",
+                "LA en Electronique / Electrotechnique et automatique",
+                "LA en Géomatique - Terre et environnement (risques et environnement / Géo-ressources / Cartographie et aménagement)",
+                "LA en Chimie (Chimie Fine)",
+                "LA en Sciences physiques",
+                "LA en Sciences de la nature",
+                "LA en Biologie analytique et expérimentale (Biologie analytique et qualité)",
+                "LA en protection de l'environnement (Gestion des Bio-ressources et développement durable / Animation scientifique et multimédia des sciences du vivant",
+                "LA en sciences et technologies de 'linformation et de la communication (Electronique et télécommunications)",
+                "LF en Chimie",
+                "LF en Physique",
+                "LF en Sciences de l'informatique",
+                "LF en Sciences de La terre",
+                "LF en Sciences de la vie",
+                "LF en Mathématiques",
+                "Systèmes de communications et réseaux",
+                "Ecotechnologie",
+                "Structures et modélisation géologique",
+                "Ressources minérales : exploration et valorisation",
+                "Physique quantique",
+                "Physique de la matière molle",
+                "Physique de la matière condensée, option: Physique des solides",
+                "Physique de la matière condensée, option: Physique des matériaux",
+                "Physiologie cellulaire et biotechnologie végétale",
+                "Microbiologie",
+                "Mécanique appliquée des fluides et des transferts thermiques",
+                "Mathématiques et applications",
+                "Mathématiques pures",
+                "Informatique",
+                "Equations aux dérivées partielles et applications",
+                "Géologie appliquée à l'environnement",
+                "Génétique et bioressources",
+                "Génétique et biologie moléculaire",
+                "Ecophysiologie végétale",
+                "Ecologie et biologie des populations",
+                "Dynamique techno sédimentaire et caractérisation des réservoirs",
+                "Chimie organique",
+                "Chimie de l'état solide",
+                "Chimie analytique",
+                "Biologie intégrative des écosystèmes littoraux",
+                "Biochimie et technologie",
+                "Biochimie dynamique",
+                "Electroniques",
+                "Informatique",
+                "Géosciences",
+                "Chimie analytique et instrumentation",
+                "Biologie & Géologie",
+                "Physique & Chimie",
+                "Math. & Physique"
+              ]
+            },
+            "Faculté de Médecine de Tunis": {
+              "faculty_name": "Faculté de Médecine de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/faculte-de-medecine-de-tunis.html",
+              "degrees": [
+                "Médecine de la reproduction",
+                "Psychiatrie légale et expertale",
+                "Toxicologie",
+                "Réparation juridique du dommage corporel",
+                "Motricité et explorations fonctionnelles digestives",
+                "Médecine subaquatique et hyper bar",
+                "Médecine du travail",
+                "Médecine d'urgence et de catastrophes",
+                "Médecine appliquée au sport",
+                "La douleur",
+                "Handicap et réhabilitation des handicapés",
+                "Gériatrie",
+                "Echocardiographie et Doppler",
+                "Acupuncture",
+                "Génétique humaine",
+                "Diplôme national de docteur en médecine"
+              ]
+            },
+            "Ecole Nationale d'Ingénieurs de Tunis": {
+              "faculty_name": "Ecole Nationale d'Ingénieurs de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/ecole-nationale-d-ingenieurs-de-tunis.html",
+              "degrees": [
+                "Techniques et calculs avancés en génie civil",
+                "Sources alternatives en eau",
+                "Réseaux électriques",
+                "Ingénierie des systèmes de télécommunications",
+                "Géomatique, option : Systèmes d'informations géographiques",
+                "Géomatique, option : Cadastre",
+                "Création d'entreprises et management de l'innovation",
+                "Systèmes électriques",
+                "Systèmes de communications, option : Réseaux radio-cellulaires",
+                "Systèmes de communications, option : Modélisation des réseaux des télécommunications",
+                "Systèmes de communications, option : Communications radio-fréquence et optique",
+                "Systèmes de communications, option : Communications multimédia",
+                "Mécanique et énergétique ,option : Modélisation en hydraulique et environnement",
+                "Mécanique et énergétique ,option : Thermique",
+                "Mécanique et énergétique ,option : Conception et fabrication mécaniques",
+                "Mécanique appliquée, option : Thermique industrielle",
+                "Mécanique appliquée, option : Conception et fabrication mécaniques",
+                "Mathématiques appliquées",
+                "Matériaux, sols et structures, option : Matériaux avancés et environnement",
+                "Matériaux, sols et structures, option : Modélisation des sols et des ouvrages",
+                "Matériaux, sols et structures, option : Modélisation et calcul des structures",
+                "Hydrodynamique et modélisation des environnements côtiers",
+                "Génie des systèmes industriels, option : Systèmes et procédés semi conducteurs",
+                "Génie des systèmes industriels, option : Systèmes énergétiques",
+                "Génie des systèmes industriels, option : Procédés en polymères et composites",
+                "Génie des systèmes industriels, option : Gestion des systèmes de production",
+                "Automatique et traitement du signal",
+                "Diplôme national d'ingénieur en Hydrométéorologie",
+                "Diplôme national d'ingénieur en télécommunications option :Génie Géomatique",
+                "Diplôme national d'ingénieur en génie Hydraulique et Environnement",
+                "Diplôme national d'ingénieur en informatique",
+                "Diplôme national d'ingénieur en génie mécanique",
+                "Diplôme national d'ingénieur en génie industriel",
+                "Diplôme national d'ingénieur en génie électrique",
+                "Diplôme national d'ingénieur en génie civil"
+              ]
+            },
+            "Institut Bourguiba des Langues Vivantes": {
+              "faculty_name": "Institut Bourguiba des Langues Vivantes",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-bourguiba-des-langues-vivantes.html",
+              "degrees": []
+            },
+            "Institut Préparatoire aux Etudes d'Ingénieurs d'El Manar": {
+              "faculty_name": "Institut Préparatoire aux Etudes d'Ingénieurs d'El Manar",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-preparatoire-aux-etudes-d-ingenieurs-d-el-manar.html",
+              "degrees": [
+                "Physique & Chimie",
+                "Math. & Physique",
+                "Technique"
+              ]
+            },
+            "Institut Supérieur des Sciences Biologiques Appliquées": {
+              "faculty_name": "Institut Supérieur des Sciences Biologiques Appliquées",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-des-sciences-biologiques-appliquees.html",
+              "degrees": [
+                "LA en Biotechnologie (Biotechnologie végétale / Gestion et exploitation des micro-organismes / Contrôle de la qualité des aliments)",
+                "LA en Protection de l'environnement (Traitement et valorisation des déchets / Patrimoine naturel et écologie / Gestion des Bio-ressources et développement durable)",
+                "Technologie de l'environnement"
+              ]
+            },
+            "Institut Supérieur d'Informatique d'El Manar": {
+              "faculty_name": "Institut Supérieur d'Informatique d'El Manar",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-d-informatique-d-el-manar.html",
+              "degrees": [
+                "LA en Informatique (Systèmes informatiques et logiciels)",
+                "LA en Réseaux informatiques (Administration des réseaux et Services)",
+                "LA en Informatique industrielle (Systèmes embarqués)",
+                "Sécurité des systèmes informatiques et des réseaux"
+              ]
+            },
+            "Institut Supérieur des Sciences Humaines de Tunis": {
+              "faculty_name": "Institut Supérieur des Sciences Humaines de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-des-sciences-humaines-de-tunis.html",
+              "degrees": [
+                "LA en Archéologie et Civilistions Anciennes",
+                "LA en Espagnol",
+                "LA en Allemand",
+                "LA en Italien",
+                "LA en psychologie",
+                "LA en Sociologie",
+                "LF en philosophie",
+                "LF en langue, littérature et civilisation anglaises",
+                "LF en langue, littérature et civilisation françaises",
+                "Philosophie",
+                "Mastère international de Tourisme Culturel en Méditerranée",
+                "Etudes féminines",
+                "Psychologie de l'éducation",
+                "Langue, civilisation et littérature françaises : Analyse du discours",
+                "Sociologie de l'entreprise",
+                "Herméneutique et histoire des systèmes"
+              ]
+            },
+            "Institut Supérieur des Technologies Médicales": {
+              "faculty_name": "Institut Supérieur des Technologies Médicales",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-des-technologies-medicales.html",
+              "degrees": [
+                "LA en systèmes Electroniques",
+                "LA en biotechnologie médicale",
+                "LA en génie biomédical"
+              ]
+            },
+            "Ecole Supérieure des Sciences et Techniques de la Santé de Tunis": {
+              "faculty_name": "Ecole Supérieure des Sciences et Techniques de la Santé de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/ecole-superieure-des-sciences-et-techniques-de-la-sante-de-tunis.html",
+              "degrees": [
+                "LA en Nursing",
+                "LA en Ergothérapie",
+                "LA en Techniques du bloc opératoire",
+                "LA en Secrétariat médical et documentation",
+                "LA en alimentation humaine (Régime alimentaire / Alimentation expérimentale / Planification et alimentation des groupes)",
+                "LA en technique alimentaire (aliments biologiques / hygiène des aliments)",
+                "LA en Orthophonie",
+                "LA en Kinésithérapie et Physiothérapie (Physiothérapie)",
+                "LA en biologie médicale (Analyses biologiques / morphologie des cellules)",
+                "LA en Hygiène (Hygiène du milieu / Sécurité professionnelle)",
+                "LA Imagerie médicale et radiothérapie",
+                "LA en Obstétrique",
+                "LA Anesthésie Réanimation"
+              ]
+            },
+            "Institut Supérieur des Sciences infirmières de Tunis": {
+              "faculty_name": "Institut Supérieur des Sciences infirmières de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-des-sciences-infirmieres-de-tunis.html",
+              "degrees": [
+                "L.A Sciences Infirmières"
+              ]
+            },
+            "Institut Pasteur": {
+              "faculty_name": "Institut Pasteur",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-pasteur.html",
+              "degrees": []
+            },
+            "Institut Supérieur des Etudes Appliquées en Humanités de Tunis": {
+              "faculty_name": "Institut Supérieur des Etudes Appliquées en Humanités de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-des-etudes-appliquees-en-humanites-de-tunis.html",
+              "degrees": [
+                "Archéologie et patrimoine",
+                "Tourisme culturel et patrimoine",
+                "Urbanisme, environnement et développement durable",
+                "Journalisme et communication",
+                "Relations internationales",
+                "Etudes en genre",
+                "Médias et politique",
+                "Gouvernance et management des organisations culturelles",
+                "Tourisme culturel et développement territorial",
+                "Histoire moderne et contemporaine",
+                "Ingénierie des interventions éducatives",
+                "Archives, documents et informations"
+              ]
+            },
+            "Institut National des Sciences et Technologies de la Mer": {
+              "faculty_name": "Institut National des Sciences et Technologies de la Mer",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-national-des-sciences-et-technologies-de-la-mer.html",
+              "degrees": [
+                "LA en Sciences de la Mer",
+                "LA en Hydrobiologie marine",
+                "LA en Génie océanographique",
+                "Diplôme National d'Ingénieur en Génie des Systèmes d'Observation de la Mer",
+                "Diplôme National d'Ingénieur en Génie des Ressources Biologiques Marines",
+                "Diplôme National d'Ingénieur en Génie Géologique et Géophysique des Bassins Marins",
+                "Diplôme National d'Ingénieur en Génie Maritime et Côtière",
+                "Diplôme National d'Ingénieur en Génie Environnemental Maritime",
+                "Diplôme National d'Ingénieur en Gestion Intégrée du Littoral"
+              ]
+            },
+            "Institut Supérieur de Biotechnologie de Beja": {
+              "faculty_name": "Institut Supérieur de Biotechnologie de Beja",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-de-biotechnologie-de-beja.html",
+              "degrees": [
+                "LA en Biotechnologie"
+              ]
+            },
+            "Institut Supérieur d'Administration des Affaires": {
+              "faculty_name": "Institut Supérieur d'Administration des Affaires",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-d-administration-des-affaires.html",
+              "degrees": [
+                "Management de l'entreprise",
+                "Management de la qualité et de la sécurité",
+                "Management de la santé",
+                "Management des ressources humaines",
+                "Management des systèmes d'information",
+                "Management de la production",
+                "Management de la logistique",
+                "Management financier"
+              ]
+            },
+            "Institut Supérieur des Arts et Métiers de Tunis": {
+              "faculty_name": "Institut Supérieur des Arts et Métiers de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-des-arts-et-metiers-de-tunis.html",
+              "degrees": [
+                "LA en Mécanique et Productique (Conception et calculs des produits mécaniques / Commande et automatisation des systèmes mécaniques)",
+                "LA en Génie Industriel",
+                "LA en Systèmes Mécatroniques (Automatisation des procédés industriels / Robotique industrielle)",
+                "Diplôme d'ingénieur des arts et métiers"
+              ]
+            },
+            "Institut Supérieur de Documentation de Tunis": {
+              "faculty_name": "Institut Supérieur de Documentation de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-de-documentation-de-tunis.html",
+              "degrees": [
+                "Management des archives",
+                "Management des bibliothèques",
+                "Management de l'information"
+              ]
+            },
+            "Institut Supérieur des Sciences et Technologies de l'Environnement de Borj Cédria": {
+              "faculty_name": "Institut Supérieur des Sciences et Technologies de l'Environnement de Borj Cédria",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-des-sciences-et-technologies-de-l-environnement-de-borj-cedria.html",
+              "degrees": [
+                "LA en Gestion de l'environnement (Gestion et traitement des déchets / Environnement côtier et marin)",
+                "LA en Hygiène et sécurité sanitaire (Hygiène alimentaire / Sécurité sanitaire des eaux de baignade)",
+                "Diplôme national d'ingénieur en gestion et traitement des déchets",
+                "Diplôme national d'ingénieur en environnement côtier et marin",
+                "Diplôme national d'ingénieur en évaluation et suivi de la qualité de l'environnement",
+                "Diplôme national d'ingénieur en gestion de la pollution et des risques",
+                "Diplôme national d'ingénieur en hygiène et sécurité sanitaire"
+              ]
+            },
+            "Institut Supérieur de l'Education et de la Formation Continue de Tunis": {
+              "faculty_name": "Institut Supérieur de l'Education et de la Formation Continue de Tunis",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-de-l-education-et-de-la-formation-continue-de-tunis.html",
+              "degrees": [
+                "LA en Education et Formation",
+                "LA en Sciences de l'éducation (Management des systèmes éducatifs / Education préscolaire)",
+                "LF en Education",
+                "LF en Sciences de l'éducation",
+                "Gestion de la formation continue",
+                "Education préscolaire",
+                "Enseignement des langues"
+              ]
+            },
+            "Institut Supérieur d'Histoire du Mouvement National": {
+              "faculty_name": "Institut Supérieur d'Histoire du Mouvement National",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-d-histoire-du-mouvement-national.html",
+              "degrees": [
+                "Histoire contemporaine et du mouvement national",
+                "Histoire de la Tunisie moderne et contemporaine",
+                "Histoire des arts"
+              ]
+            },
+            "Institut Supérieur d'Informatique et de Gestion de Kairouan": {
+              "faculty_name": "Institut Supérieur d'Informatique et de Gestion de Kairouan",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-d-informatique-et-de-gestion-de-kairouan.html",
+              "degrees": [
+                "Informatique de Gestion",
+                "Management des entreprises",
+                "Marketing",
+                "Audit et Contrôle de gestion",
+                "Technologies de l'information et de la communication (Génie logiciel / Réseaux et Systèmes d'information / Systèmes d'information et Management)"
+              ]
+            },
+            "Institut Supérieur de Finances et de Fiscalité": {
+              "faculty_name": "Institut Supérieur de Finances et de Fiscalité",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-superieur-de-finances-et-de-fiscalite.html",
+              "degrees": [
+                "Finances",
+                "Fiscalité"
+              ]
+            },
+            "Institut des Hautes Etudes Commerciales de Carthage": {
+              "faculty_name": "Institut des Hautes Etudes Commerciales de Carthage",
+              "faculty_link": "Universite-de-Tunis-El-Manar/institut-des-hautes-etudes-commerciales-de-carthage.html",
+              "degrees": [
+                "Informatique appliquée à la gestion (Business Intelligence / E-commerce)",
+                "Finance et Marchés (Analyse des données financières / Corporate Finance)",
+                "Management de la chaîne logistique et de la distribution (Management de la qualité / Achat et approvisionnement)",
+                "Management des entreprises (Innovation et management des projets / Management international / Management des ressources humaines)",
+                "Marketing et Vente (Marketing international / Marketing de la distribution / Négociation commerciale)",
+                "Management et entrepreneuriat (Stratégie et création d'entreprise / Gestion des PME / Management public)",
+                "Audit et Contrôle de gestion (Contrôle interne et audit externe / Gestion budgétaire / Contrôle de gestion industriel)"
+              ]
+            }
+          }
+        },
+        
+          "5": {
+            "university_name": "Université de Gafsa",
+            "link": "UniversityGafsa",
+            "image": "Universities/gafsa.png",
+
+            "Faculties": {
+              "www.ugaf.rnu.tn": {
+                "faculty_name": "www.ugaf.rnu.tn",
+                "faculty_link": "http://www.ugaf.rnu.tn/",
+                "degrees": []
+              },
+              "Faculté des Sciences de Gafsa": {
+                "faculty_name": "Faculté des Sciences de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/faculte-des-sciences-de-gafsa.html",
+                "degrees": [
+                  "LA en Géomatique - Terre et environnement",
+                  "LA en Biologie analytique et expérimentale",
+                  "LA en Géo- ressources et (géo- ressources / géologie des réservoirs)",
+                  "LA en Chimie (Céramique et verrerie / Chimie industrielle)",
+                  "LA en Physique (Instrumentation)",
+                  "LA en Electromécanique (Maintenance industrielle)",
+                  "LF en Sciences de la vie",
+                  "LF en Physique",
+                  "LF en sciences de l'informatique",
+                  "LF en Mathématiques"
+                ]
+              },
+              "Institut Supérieur des Etudes Appliquées en Humanités de Gafsa": {
+                "faculty_name": "Institut Supérieur des Etudes Appliquées en Humanités de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/institut-superieur-des-etudes-appliquees-en-humanites-de-gafsa.html",
+                "degrees": [
+                  "LA en Allemand",
+                  "LA en Italien",
+                  "LA en Anglais",
+                  "LA en Français",
+                  "LF en langue, littérature et civilisation anglaises",
+                  "LF en langue, littérature et civilisation françaises"
+                ]
+              },
+              "Institut Supérieur d'Administration des Entreprises de Gafsa": {
+                "faculty_name": "Institut Supérieur d'Administration des Entreprises de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/institut-superieur-d-administration-des-entreprises-de-gafsa.html",
+                "degrees": [
+                  "LF en Economie des organisations et des réseaux (Entrepreneuriat et gestion des projets)",
+                  "LA en Informatique (Technologies de l'informatique et du multimédia)",
+                  "LA en Marketing (Techniques du Marketing)",
+                  "LF en Economie (Monnaie, finance et banque)"
+                ]
+              },
+              "Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa": {
+                "faculty_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/institut-superieur-des-sciences-appliquees-et-de-technologie-de-gafsa.html",
+                "degrees": [
+                  "LA en Réseaux informatiques (Technologies de l'informatique et des télécommunications)",
+                  "LA en Informatique industrielle (Maintenance des systèmes informatiques)",
+                  "LA en Electromécanique (Maintenance des engins lourds)",
+                  "LA en Electronique / Electrotechnique et automatique (Automatique et systèmes industriels)"
+                ]
+              },
+              "Institut Supérieur d'Arts et Métiers de Gafsa": {
+                "faculty_name": "Institut Supérieur d'Arts et Métiers de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/institut-superieur-d-arts-et-metiers-de-gafsa.html",
+                "degrees": [
+                  "LA en Design Produit (Mobilier / Création artisanale / Création industrielle)",
+                  "LA en Design Espace (Architecture d'intérieur)",
+                  "LF en en Arts de la Musique et Musicologie (Musique et musicologie)"
+                ]
+              },
+              "Institut Supérieur des Sciences et des Technologies de l'énergie de Gafsa": {
+                "faculty_name": "Institut Supérieur des Sciences et des Technologies de l'énergie de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/institut-superieur-des-sciences-et-des-technologies-de-l-energie-de-gafsa.html",
+                "degrees": [
+                  "LA en Energétique (Energétique / Maintenance des systèmes énergétiques / Energies renouvelables et environnement)"
+                ]
+              },
+              "Institut Supérieur des Etudes Appliquées en Humanités de Tozeur": {
+                "faculty_name": "Institut Supérieur des Etudes Appliquées en Humanités de Tozeur",
+                "faculty_link": "Universite-de-Gafsa/institut-superieur-des-etudes-appliquees-en-humanites-de-tozeur.html",
+                "degrees": [
+                  "LA en Français",
+                  "LA en Italien",
+                  "LA en Espagnol"
+                ]
+              },
+              "Institut Préparatoire aux Etudes d'Ingénieur de Gafsa": {
+                "faculty_name": "Institut Préparatoire aux Etudes d'Ingénieur de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/institut-preparatoire-aux-etudes-d-ingenieur-de-gafsa.html",
+                "degrees": [
+                  "Cycle préparatoire - Technique",
+                  "Cycle préparatoire scientifique"
+                ]
+              },
+              "Institut Supérieur du Sport et de l'Education Physique de Gafsa": {
+                "faculty_name": "Institut Supérieur du Sport et de l'Education Physique de Gafsa",
+                "faculty_link": "Universite-de-Gafsa/institut-superieur-du-sport-et-de-l-education-physique-de-gafsa.html",
+                "degrees": [
+                  "LF en Education Physique"
+                ]
+              }
+            }
+          },
+          
+            "6": {
+              "university_name": "Université de Sousse",
+              "link": "UniversitySousse",
+              "image": "Universities/sousse.jpg",
+
+              "Faculties": {
+                "www.uc.rnu.tn": {
+                  "faculty_name": "www.uc.rnu.tn",
+                  "faculty_link": "http://www.uc.rnu.tn/",
+                  "degrees": []
+                },
+                "Faculté de Droit et des Sciences Economiques et Politiques de Sousse": {
+                  "faculty_name": "Faculté de Droit et des Sciences Economiques et Politiques de Sousse",
+                  "faculty_link": "Universite-de-Sousse/faculte-de-droit-et-des-sciences-economiques-et-politiques-de-sousse.html",
+                  "degrees": [
+                    "LA en Droit des Ressources Humaines",
+                    "LA en Comptabilité (Techniques comptables et financières)",
+                    "LA en Droit de l'Entreprise et des affaires",
+                    "LA en Contentieux administratif et fiscal",
+                    "LF en Economie (Economie et finance internationales / Economie des Organisations et des Réseaux / Economie quantitative)",
+                    "LF en gestion (Finance / Marketing / gestion des ressources humaines / gestion fiscale)",
+                    "LF en Droit privé",
+                    "LF en Droit Public",
+                    "Economie du tourisme",
+                    "Commerce international et exportation",
+                    "Droit Public",
+                    "Droit fiscal",
+                    "Droit des affaires"
+                  ]
+                },
+                "Faculté de Médecine de Sousse": {
+                  "faculty_name": "Faculté de Médecine de Sousse",
+                  "faculty_link": "Universite-de-Sousse/faculte-de-medecine-de-sousse.html",
+                  "degrees": [
+                    "Cardiologie du sport",
+                    "Médecine du sport",
+                    "Médecine d'urgence",
+                    "Médecine communautaire",
+                    "Management des services de santé",
+                    "Informatique médicale",
+                    "Hygiène hospitalière",
+                    "Dermatologie professionnelle et de l'environnement",
+                    "Thalassothérapie et thermalisme",
+                    "Homéopathie",
+                    "Diplôme national de docteur en médecine"
+                  ]
+                },
+                "Faculté des Lettres et des Sciences Humaines de Sousse": {
+                  "faculty_name": "Faculté des Lettres et des Sciences Humaines de Sousse",
+                  "faculty_link": "Universite-de-Sousse/faculte-des-lettres-et-des-sciences-humaines-de-sousse.html",
+                  "degrees": [
+                    "LA en Métiers du livre & lication",
+                    "LA en Métiers de patrimoine",
+                    "LA en Anglais (Anglais des affaires)",
+                    "LA en Français",
+                    "LA en Géographie (géographie de l'environnement et des ressources naturelles)",
+                    "LA en Géographie (géographie de l'aménagement & de l'environnement)",
+                    "LF en Histoire-Géographie (histoire, géographie)",
+                    "LF en langue, littérature et civilisation françaises",
+                    "LF en langue, littérature et civilisation anglaises",
+                    "LF en langue, littérature et civilisation arabes",
+                    "Esthétique, sciences et techniques de la musique, option : La musique occidentale appliquée",
+                    "Esthétique, sciences et techniques de la musique, option : La musique arabe appliquée",
+                    "Esthétique, sciences et techniques de la musique, option : Musicologie"
+                  ]
+                },
+                "Institut Supérieur de Finance et de Fiscalité de Sousse": {
+                  "faculty_name": "Institut Supérieur de Finance et de Fiscalité de Sousse",
+                  "faculty_link": "Universite-de-Sousse/institut-superieur-de-finance-et-de-fiscalite-de-sousse.html",
+                  "degrees": [
+                    "LA en Management (gestion des petites et moyennes entreprises)",
+                    "LA EN GESTION FISCALE",
+                    "LA en Finance ( ingénierie financière et marchés)",
+                    "LA en Gestion comptable",
+                    "LF en Gestion fiscale"
+                  ]
+                },
+                "Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse": {
+                  "faculty_name": "Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse",
+                  "faculty_link": "Universite-de-Sousse/institut-superieur-d-informatique-et-des-technologies-de-communication-de-hammam-sousse.html",
+                  "degrees": [
+                    "LA en Informatique (Technologies du multimédia et du web)",
+                    "LA en Réseaux informatiques (Technologies des réseaux informatiques)",
+                    "LA en Sciences et technologies de l'information et de la communication (Technologies des communications)",
+                    "Diplôme national d'ingénieur en informatique à distance"
+                  ]
+                },
+                "Institut Supérieur du Transport et de la Logistique de Sousse": {
+                  "faculty_name": "Institut Supérieur du Transport et de la Logistique de Sousse",
+                  "faculty_link": "Universite-de-Sousse/institut-superieur-du-transport-et-de-la-logistique-de-sousse.html",
+                  "degrees": [
+                    "LA en Technologies du Trasport",
+                    "LA en Génie Logistique (Logistique industrielle / Logistique de distribution / Logistique des Produits Spécifiques)",
+                    "LA en techniques du transport et logistique (Transport terrestre / transport maritime / transport multimodal)",
+                    "LF en transport et logistique (Sciences du transport et de la logistique / Sécurité logistique / Informatique du transport et de la logistique)",
+                    "Logistique et gestion des transport",
+                    "Sciences des transports et de la logistique"
+                  ]
+                },
+                "Institut Supérieur de Beaux Arts de Sousse": {
+                  "faculty_name": "Institut Supérieur de Beaux Arts de Sousse",
+                  "faculty_link": "Universite-de-Sousse/institut-superieur-de-beaux-arts-de-sousse.html",
+                  "degrees": [
+                    "LA en Design Produit (Création artisanale /Création industrielle )",
+                    "LA en Design Espace (Architecture d'intérieur / Scénographie)",
+                    "LA en Design Image (Publicité graphique)",
+                    "LA en Arts Plastiques (Sculpture / Photographie)",
+                    "LF en Design (Image / espace)",
+                    "LF en Arts Visuels (arts plastiques)",
+                    "Esthétique et pratiques des arts visuels, option : Arts visuels",
+                    "Esthétique et pratiques des arts visuels, option : Arts plastiques",
+                    "Diplôme national d'arts et métiers, option : Art et communication",
+                    "Diplôme national d'arts et métiers, option : Architecture d'intérieur et scénographie"
+                  ]
+                },
+                "Ecole Supérieure des Sciences et des technologies de Hammam Sousse": {
+                  "faculty_name": "Ecole Supérieure des Sciences et des technologies de Hammam Sousse",
+                  "faculty_link": "Universite-de-Sousse/ecole-superieure-des-sciences-et-des-technologies-de-hammam-sousse.html",
+                  "degrees": [
+                    "Cycle préparatoire (scientifique)",
+                    "LA en Energétique (Energétique)",
+                    "LA en Electronique et électrotechnique et automatique (électrotechnique & informatique industrielle)",
+                    "LA en Physique (Matériaux)",
+                    "LA en STIC (Informatique et Electronique)",
+                    "LF en Physique",
+                    "LF en Mathématiques"
+                  ]
+                }
+              }
+            },
+            
+              "7": {
+                "university_name": "Instituts Supérieurs des Etudes Technologiques",
+                "link": "UniversityTechno",
+                "image": "Universities/techno.jpg",
+
+                "Faculties": {
+                  "Institut Supérieur des Etudes Technologiques de Sfax": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Sfax",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-sfax.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Kebili": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Kebili",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-kebili.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Gabès": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Gabès",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-gabes.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Djerba": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Djerba",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-djerba.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Kef": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Kef",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-kef.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Zaghouan": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Zaghouan",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-zaghouan.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Sousse": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Sousse",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-sousse.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Mahdia": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Mahdia",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-mahdia.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Siliana": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Siliana",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-siliana.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Radès": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Radès",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-rades.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Nabeul": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Nabeul",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-nabeul.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Sidi Bouzid": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Sidi Bouzid",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-sidi-bouzid.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques en Communications (El Ghazala)": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques en Communications (El Ghazala)",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-en-communications-el-ghazala.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Kairouan": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Kairouan",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-kairouan.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Gafsa": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Gafsa",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-gafsa.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Béja": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Béja",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-beja.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Charguia": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Charguia",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-charguia.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Jendouba": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Jendouba",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-jendouba.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Kasserine": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Kasserine",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-kasserine.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Ksar Hellal": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Ksar Hellal",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-ksar-hellal.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Tataouine": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Tataouine",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-tataouine.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Tozeur": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Tozeur",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-tozeur.html",
+                    "degrees": []
+                  },
+                  "Institut Supérieur des Etudes Technologiques de Bizerte": {
+                    "faculty_name": "Institut Supérieur des Etudes Technologiques de Bizerte",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-bizerte.html",
+                    "degrees": []
+                  },
+                  "Institut supérieur des Etudes Technologiques de Médenine": {
+                    "faculty_name": "Institut supérieur des Etudes Technologiques de Médenine",
+                    "faculty_link": "Instituts-Superieurs-des-Etudes-Technologiques/institut-superieur-des-etudes-technologiques-de-medenine.html",
+                    "degrees": []
+                  }
+                }
+              },
+              "8": {
+                "university_name": "Université de Sfax",
+                "link": "UniversitySfax",
+                "image": "Universities/Sfax.jpg",
+
+                "Faculties": {
+                    "Faculté des Sciences Economiques et de Gestion de Sfax": {
+                        "faculty_name": "Faculté des Sciences Economiques et de Gestion de Sfax",
+                        "faculty_link": "Universite-de-Sfax/faculte-des-sciences-economiques-et-de-gestion-de-sfax.html",
+                        "degrees": [
+                            "LA en Economie et gestion quantitatives (Aide à la prise de décisions)",
+                            "LA en Finance (Ingénierie financière et marchés)",
+                            "LA en Monnaie, Finance et Banque (Banques et assurances / Ingénierie économique et financière)",
+                            "LA en Economie et Finance internationales (Techniques du Commerce international)",
+                            "LA en Marketing (gestion des exportations)",
+                            "LA en Gestion des Ressources Humaines",
+                            "LA en Comptabilité (Techniques comptables et fiscales)",
+                            "LF en Informatique de gestion",
+                            "LF en Economie (Economie et Finance internationales / Economie des Organisations et des Réseaux / Monnaie finance et banque / Economie et gestion quant",
+                            "LF en gestion (Comptabilité / Marketing / Finance / Gestion de la production / Management / Gestion quantitative)",
+                            "Révision comptable",
+                            "Systèmes d'information et nouvelles technologies",
+                            "Sciences économiques",
+                            "Recherches opérationnelles et gestion de la production",
+                            "Monnaie, finance et économie internationale",
+                            "Gestion et internationalisation des économies",
+                            "Marketing",
+                            "Finance",
+                            "Dynamique économique et financière",
+                            "Comptabilité"
+                        ]
+                    },
+                    "Faculté de Médecine de Sfax": {
+                        "faculty_name": "Faculté de Médecine de Sfax",
+                        "faculty_link": "Universite-de-Sfax/faculte-de-medecine-de-sfax.html",
+                        "degrees": [
+                            "Sexologie",
+                            "Bases moléculaires de pathologie humaine",
+                            "Toxicologie professionnelle et de l'environnement",
+                            "Médecine transfusionnelle",
+                            "Médecine du sport",
+                            "Médecine d'urgence",
+                            "Médecine manuelle et pathologie du rachis",
+                            "Hypertension artérielle",
+                            "Gériatrie",
+                            "Epileptologie",
+                            "Antibiothérapie",
+                            "Anatomie de la chirurgie viscérale",
+                            "Adolescentologie",
+                            "Diplôme national de docteur en médecine"
+                        ]
+                    },
+                    "Faculté de droit de Sfax": {
+                        "faculty_name": "Faculté de droit de Sfax",
+                        "faculty_link": "Universite-de-Sfax/faculte-de-droit-de-sfax.html",
+                        "degrees": [
+                            "LA en Contentieux administratif et fiscal",
+                            "LA en Droit des affaires foncières",
+                            "LA en fiscalité de l'Entreprise",
+                            "LA en Droit de l'Entreprise et des Affaires",
+                            "LF en Droit Public",
+                            "LF en Droit privé",
+                            "Droit social",
+                            "Droit Public et commerce international",
+                            "Droit privé",
+                            "Droit des affaires"
+                        ]
+                    },
+                    "Institut Supérieur des Arts et Métiers de Sfax": {
+                        "faculty_name": "Institut Supérieur des Arts et Métiers de Sfax",
+                        "faculty_link": "Universite-de-Sfax/institut-superieur-des-arts-et-metiers-de-sfax.html",
+                        "degrees": [
+                            "LA en Design Espace (Architecture d'intérieur)",
+                            "LA en Design Produit (Mobilier / Bijoux / Habillement)",
+                            "LA en Design Image (Publicité graphique / Publlicité audiovisuelle)",
+                            "LA en Arts plastiques (Textile / sculpture / gravure / mosaïque / céramique)",
+                            "LF en Design (Image / Espace / Produit)",
+                            "LF en Arts Visuels (arts plastiques)",
+                            "Arts plastiques",
+                            "Design, option : Design textile et habillement",
+                            "Design, option : Design graphique",
+                            "Design, option : Design mobilier",
+                            "Design, option : Design Aménagement"
+                        ]
+                    },
+                    "Institut Supérieur d'Electronique et de Communication de Sfax": {
+                        "faculty_name": "Institut Supérieur d'Electronique et de Communication de Sfax",
+                        "faculty_link": "Universite-de-Sfax/institut-superieur-d-electronique-et-de-communication-de-sfax.html",
+                        "degrees": [
+                            "LA en Informatique industrielle (Maintenance des systèmes informatiques)",
+                            "LA en réseaux informatiques (technologies des réseaux et télécommunications)",
+                            "LA en Science TIC (Technologies de l'Electronique et de la communication)"
+                        ]
+                    },
+                    "Institut Supérieur de Gestion Industrielle de Sfax": {
+                        "faculty_name": "Institut Supérieur de Gestion Industrielle de Sfax",
+                        "faculty_link": "Universite-de-Sfax/institut-superieur-de-gestion-industrielle-de-sfax.html",
+                        "degrees": [
+                            "LA en Génie logistique (logistique industrielle)",
+                            "LA en Electronique, Electrotechnique et Automatique (E.E.A & informatique industrielle)",
+                            "LA en Economie des organisations et des réseaux (Systèmes de transport et logistiques)",
+                            "LA en Electromécanique (Maintenance Industrielle)",
+                            "LA en Gestion de la production (approvisionnement, gestion de la production assistée par ordinateur, gestion de la qualité)",
+                            "LF en Gestion (Gestion de la production)",
+                            "Gestion par objectifs"
+                        ]
+                    },
+                    "Institut des Hautes Etudes Commerciales de Sfax": {
+                        "faculty_name": "Institut des Hautes Etudes Commerciales de Sfax",
+                        "faculty_link": "Universite-de-Sfax/institut-des-hautes-etudes-commerciales-de-sfax.html",
+                        "degrees": [
+                            "LA en Monnaie, Finance et Banque (Ingénierie économique et financière)",
+                            "LA en Economie et finance internationales (Intelligence économique et gestion des risques)",
+                            "LA en Comptabilité (Gestion comptable)",
+                            "LA en Finance (Techniques financières)",
+                            "LF en gestion (Hautes Etudes Commerciales / gestion fiscale / finance)",
+                            "LF en Economie ( Economie et finance internationales: Stratégies de l'Entreprise et Négociations Commerciales Internationales)"
+                        ]
+                    },
+                    "Faculté des Sciences de Sfax": {
+                        "faculty_name": "Faculté des Sciences de Sfax",
+                        "faculty_link": "Universite-de-Sfax/faculte-des-sciences-de-sfax.html",
+                        "degrees": [
+                            "LA en Techniques d'Emballage",
+                            "LA en Protection de l'environnement (Traitement et valorisation des déchets)",
+                            "LA en Agroalimentaire et nutrition (Agroalimentaire / Hygiène et sécurité alimentaire)",
+                            "LA en Biotechnologie (Biotechnologie végétale / Valorisation des ressources végétales)",
+                            "LA en géologie des grands travaux (Travaux hydrologiques / Travaux lics)",
+                            "LA en Géo- ressources et Environnement (Gestion de l'environnement côtier et urbain ; géo- ressources ; géologie des réservoirs)",
+                            "LA en Chimie (Cosmétique Arômes et parfums / Plastique / Traitement et contrôle des métaux / Céramique et verrerie)",
+                            "LA en Electronique / Electrotechnique et automatique (Electronique industrielle / Electronique et informatique industrielle)",
+                            "LA en informatique (technologies numériques du son et de l'image)",
+                            "LA en réseaux informatiques (technologies des réseaux et télécommunications)",
+                            "LA en Science de la nature",
+                            "LA en Physique (Instrumentation / Matériaux)",
+                            "LA en Mathématiques financières",
+                            "Cycle préparatoire: Biologie-Géologie",
+                            "LF en Sciences de la terre et de l'univers",
+                            "LF en sciences de la vie",
+                            "Cycle préparatoire - scientifique",
+                            "LF en Chimie",
+                            "LF en Physique",
+                            "LF en sciences de l'Informatique",
+                            "LF en Mathématiques (Mathématiques, Mathématiques et applications)",
+                            "Instrumentation et communication",
+                            "Sciences des matériaux",
+                            "Physique des matériaux diélectriques",
+                            "Mathématiques",
+                            "Géosciences appliquées aux ressources et environnement naturel (en collaboration avec l'ENIS)",
+                            "Chimie organique",
+                            "Chimie inorganique",
+                            "Biologie moléculaire et cellulaire",
+                            "Biologie et écophysiologie des organismes végétaux",
+                            "Biodiversité et ressources aquatiques"
+                        ]
+                    },
+                    "Ecole Nationale d'Ingénieurs de Sfax": {
+                        "faculty_name": "Ecole Nationale d'Ingénieurs de Sfax",
+                        "faculty_link": "Universite-de-Sfax/ecole-nationale-d-ingenieurs-de-sfax.html",
+                        "degrees": [
+                            "Nouvelles technologies de l'information et du commerce électronique",
+                            "Management de l'ingénierie",
+                            "Génie logistique et technologies de l'information et de la communication",
+                            "Mécanique et ingénierie",
+                            "Matériaux et surfaces",
+                            "Conversion électrique des énergies renouvelables",
+                            "Nouvelles technologies des systèmes informatiques dédiés",
+                            "Génie de l'environnement et de l'aménagement",
+                            "Génie biologique",
+                            "Electronique",
+                            "Commande automatique et informatique industrielle",
+                            "Diplôme national d'ingénieur en informatique option: Informatique de la décision",
+                            "Diplôme national d'ingénieur en informatique option: Sciences de l'Informatique",
+                            "Diplôme national d'ingénieur en géoressources et environnement : option : Géoressources",
+                            "Diplôme national d'ingénieur en géoressources et environnement : option : Aménagement et environnement",
+                            "Diplôme national d'ingénieur en génie électromécanique : option : Productique",
+                            "Diplôme national d'ingénieur en génie électromécanique : option : Mécanique et structure",
+                            "Diplôme national d'ingénieur en génie électromécanique : option : Machines thermiques et construction maritime",
+                            "Diplôme national d'ingénieur en génie électrique : option : Ingénierie des systèmes informatiques",
+                            "Diplôme national d'ingénieur en génie électrique : option : Electrotechnique et électricité industrielle",
+                            "Diplôme national d'ingénieur en génie électrique : option : Electronique et nouvelles technologies",
+                            "Diplôme national d'ingénieur en génie électrique : option : Automatique et informatique industrielle",
+                            "Diplôme national d'ingénieur en génie des matériaux : option : Céramique et composites",
+                            "Diplôme national d'ingénieur en génie des matériaux : option : Moules et plasturgie",
+                            "Diplôme national d'ingénieur en génie biologique : option : Génie alimentaire",
+                            "Diplôme national d'ingénieur en génie biologique : option : Biotechnologie"
+                        ]
+                    },
+                    "Ecole Supérieure de Commerce de Sfax": {
+                        "faculty_name": "Ecole Supérieure de Commerce de Sfax",
+                        "faculty_link": "Universite-de-Sfax/ecole-superieure-de-commerce-de-sfax.html",
+                        "degrees": [
+                            "LA en Informatique de gestion (Commerce Electronique)",
+                            "LA en Economie et gestion quantitatives (ingénierie des informations économiques et statistiques",
+                            "LA en Comptabilité (Audit et contrôle)",
+                            "LA en Economie et Finance internationales (Techniques du Commerce international)",
+                            "LF en gestion (Finance / Comptabilité)",
+                            "Gestion des situations d'urgence",
+                            "Transport, logistique, aménagement et développement",
+                            "Nouvelles technologies et gestion comptable, fiscale et financière",
+                            "Commerce international"
+                        ]
+                    },
+                    "Institut Supérieur d'Administration des Affaires de Sfax": {
+                        "faculty_name": "Institut Supérieur d'Administration des Affaires de Sfax",
+                        "faculty_link": "Universite-de-Sfax/institut-superieur-d-administration-des-affaires-de-sfax.html",
+                        "degrees": [
+                            "LA en Informatique de gestion (Informatique pour la gestion des affaires / E-services)",
+                            "LA en management (Gestion des ressources humaines / Entrepreneuriat)",
+                            "LA en Marketing (Marketing stratégique et opérationnel)",
+                            "LA en Finances (Banques et assurances)",
+                            "LA en Gestion (Gestion financière et comptable / Audit et contrôle de gestion)",
+                            "LF en gestion (Marketing / Management / Ressources humaines / Finance / Comptabilité)",
+                            "Développement personnel",
+                            "Audit financier",
+                            "Techniques de vente et de négociation commerciale",
+                            "Méthodologies de recherche et analyse financière",
+                            "E-business"
+                        ]
+                    }
+                }
+            },
+            "9": {
+              "university_name": "Université de Jendouba",
+              "link": "UniversityJendouba",
+              "image": "Universities/jendouba.png",
+
+              "Faculties": {
+                  "www.uj.rnu.tn": {
+                      "faculty_name": "www.uj.rnu.tn",
+                      "faculty_link": "http://www.uj.rnu.tn/",
+                      "degrees": []
+                  },
+                  "Faculté des Sciences Juridiques, Economiques et de Gestion de Jendouba": {
+                      "faculty_name": "Faculté des Sciences Juridiques, Economiques et de Gestion de Jendouba",
+                      "faculty_link": "Universite-de-Jendouba/faculte-des-sciences-juridiques-economiques-et-de-gestion-de-jendouba.html",
+                      "degrees": [
+                          "LA en Monnaie, Finance et Banque (Techniques d'Assurance)",
+                          "LA en Economie et Finance internationales (Techniques du Commerce international)",
+                          "LA en Comptabilité (Techniques comptables et fiscales)",
+                          "LA en Economie des organisations et des réseaux (Analyse des projets et consultations économiques)",
+                          "LA en Management (Gestion des Entreprises)",
+                          "LA en Informatique de Gestion (commerce électronique)",
+                          "LA en Economie et gestion quantitatives (ingénierie des risques : Finance, banque et assurances)",
+                          "LF en Economie (Monnaie, finance et Banque / Economie et finance internationales)",
+                          "LF en Gestion (Finance / Marketing / Comptabilité)",
+                          "LA en Droit des entreprises et des affaires",
+                          "LF en Droit Privé",
+                          "LF en Droit Public",
+                          "Gestion des établissements hospitaliers",
+                          "Informatique : Données, connaissances et Systèmes distribués",
+                          "Finance bank"
+                      ]
+                  },
+                  "Institut Supérieur des Etudes Appliquées en Humanités du Kef": {
+                      "faculty_name": "Institut Supérieur des Etudes Appliquées en Humanités du Kef",
+                      "faculty_link": "Universite-de-Jendouba/institut-superieur-des-etudes-appliquees-en-humanites-du-kef.html",
+                      "degrees": []
+                  },
+                  "Institut Supérieur des Langues Appliquées et d'Informatique de Béja": {
+                      "faculty_name": "Institut Supérieur des Langues Appliquées et d'Informatique de Béja",
+                      "faculty_link": "Universite-de-Jendouba/institut-superieur-des-langues-appliquees-et-d-informatique-de-beja.html",
+                      "degrees": [
+                          "LA en Allemand (Economie)",
+                          "LA en Informatique (Arts du multimédia et du Web)",
+                          "LA en Anglais (Anglais des Affaires)",
+                          "LA en Espagnol (Tourisme et Patrimoine)"
+                      ]
+                  },
+                  "Institut Supérieur des Sciences Humaines de Jendouba": {
+                      "faculty_name": "Institut Supérieur des Sciences Humaines de Jendouba",
+                      "faculty_link": "Universite-de-Jendouba/institut-superieur-des-sciences-humaines-de-jendouba.html",
+                      "degrees": [
+                          "LF en Histoire-Géographie (histoire, géographie)",
+                          "LA en Anglais",
+                          "LA en Français"
+                      ]
+                  },
+                  "Institut Supérieur des Arts et Métiers de Siliana": {
+                      "faculty_name": "Institut Supérieur des Arts et Métiers de Siliana",
+                      "faculty_link": "Universite-de-Jendouba/institut-superieur-des-arts-et-metiers-de-siliana.html",
+                      "degrees": [
+                          "LA en Design Produit (Création artisanale / Bijoux)"
+                      ]
+                  },
+                  "Institut Supérieur de Musique et de Théâtre du Kef": {
+                      "faculty_name": "Institut Supérieur de Musique et de Théâtre du Kef",
+                      "faculty_link": "Universite-de-Jendouba/institut-superieur-de-musique-et-de-theatre-du-kef.html",
+                      "degrees": [
+                          "LA en Eveil musical",
+                          "LA en Théâtre et Arts de la Scène (Arts du comédien)",
+                          "LF en Arts de la musique et Musicologie (Musique et musicologie / Interprétation de la musique arabe /  Interprétation de la musique occidentale)"
+                      ]
+                  },
+                  "Institut Supérieur de l 'Education Physique du Kef": {
+                      "faculty_name": "Institut Supérieur de l 'Education Physique du Kef",
+                      "faculty_link": "Universite-de-Jendouba/institut-superieur-de-l-education-physique-du-kef.html",
+                      "degrees": [
+                          "LA Education physique"
+                      ]
+                  },
+                  "Ecole Supérieure d 'Agriculture du Kef": {
+                      "faculty_name": "Ecole Supérieure d 'Agriculture du Kef",
+                      "faculty_link": "Universite-de-Jendouba/ecole-superieure-d-agriculture-du-kef.html",
+                      "degrees": [
+                          "LA en Techniques de production agricole",
+                          "Agriculture intégrée",
+                          "Diplôme national d'ingénieur en agronomie"
+                      ]
+                  },
+                  "Institut Sylvo-Pastoral de Tabarka": {
+                      "faculty_name": "Institut Sylvo-Pastoral de Tabarka",
+                      "faculty_link": "Universite-de-Jendouba/institut-sylvo-pastoral-de-tabarka.html",
+                      "degrees": [
+                          "LA en Tourisme Environnemental",
+                          "LA en Sciences et Techniques Forestières"
+                      ]
+                  },
+                  "Ecole Supérieure des Ingénieurs de l'Equipement Rural de Medjez El Bab": {
+                      "faculty_name": "Ecole Supérieure des Ingénieurs de l'Equipement Rural de Medjez El Bab",
+                      "faculty_link": "Universite-de-Jendouba/ecole-superieure-des-ingenieurs-de-l-equipement-rural-de-medjez-el-bab.html",
+                      "degrees": [
+                          "LA en Equipement Agricole",
+                          "LA en Hydraulique, Aménagement et Environnement",
+                          "Hydrologie et hydrogéologie",
+                          "Diplôme national d'ingénieur en génie mécanique et industries agricoles.",
+                          "Diplôme national d'ingénieur en hydraulique et aménagement"
+                      ]
+                  }
+              }
+          },
+          "10": {
+            "university_name": "Université de la Manouba",
+            "link": "UniversityManouba",
+            "image": "Universities/manouba.png",
+
+            "Faculties": {
+                "Faculté des Lettres, des Arts et des Humanités de la Manouba": {
+                    "faculty_name": "Faculté des Lettres, des Arts et des Humanités de la Manouba",
+                    "faculty_link": "Universite-de-la-Manouba/faculte-des-lettres-des-arts-et-des-humanites-de-la-manouba.html",
+                    "degrees": [
+                        "LA en Traduction",
+                        "LA en Géomatique",
+                        "LA en Anglais",
+                        "LA en géographie",
+                        "LF en Histoir-Géographie",
+                        "LA en italien",
+                        "LA en Allemand",
+                        "LA en Espagnol",
+                        "LA en Français",
+                        "LF en langue, littérature et civilisation espagnoles",
+                        "LF en langue, littérature et civilisation françaises",
+                        "LF en langue, littérature et civilisation anglaises",
+                        "LF en langue, littérature et civilisation arabes",
+                        "Langue anglaise appliquée",
+                        "Géomatique de l'informatique pour le développement durable et la maîtrise de l'environnement",
+                        "Littératures francophones et comparées",
+                        "Etudes comparées en religions et civilisation",
+                        "Analyse du discours",
+                        "Télédétection, cartographie, systèmes naturels et aménagement",
+                        "Linguistique arabe, théorique et pratique",
+                        "Langue, littérature et civilisation italiennes",
+                        "Langue, littérature et civilisation espagnoles",
+                        "Langue, littérature et civilisation allemandes",
+                        "Langue et littérature françaises",
+                        "Langue et littérature anglaises",
+                        "Langue et littérature arabes",
+                        "Histoire et civilisation du monde méditerranéen"
+                    ]
+                },
+                "Ecole Supérieure des Sciences et Technologies du Design": {
+                    "faculty_name": "Ecole Supérieure des Sciences et Technologies du Design",
+                    "faculty_link": "Universite-de-la-Manouba/ecole-superieure-des-sciences-et-technologies-du-design.html",
+                    "degrees": [
+                        "LA en Design Espace (Architecture d'intérieur / Scénographie)",
+                        "LA en Design Image (Publicité graphique /Publlicité audiovisuelle)",
+                        "LA en Design Produit (Mobilier / Emballage / création industrielle/ Création artisanale)",
+                        "LF en Design (Image / Espace / Produit)",
+                        "Sciences et technologie du design, option: Design produit",
+                        "Sciences et technologie du design, option: Design espace",
+                        "Sciences et technologie du design, option: Design image",
+                        "Diplôme national en arts et métiers, option : Confection et modélisme",
+                        "Diplôme national en arts et métiers, option : Design produit",
+                        "Diplôme national en arts et métiers, option :Publlicité audiovisuelle",
+                        "Diplôme national en arts et métiers, option : Publicité graphique",
+                        "Diplôme national en arts et métiers, option : Design d'intérieur",
+                        "Diplôme national en arts et métiers, option : Design du meuble"
+                    ]
+                },
+                "Ecole Supérieure de Commerce de Tunis": {
+                    "faculty_name": "Ecole Supérieure de Commerce de Tunis",
+                    "faculty_link": "Universite-de-la-Manouba/ecole-superieure-de-commerce-de-tunis.html",
+                    "degrees": [
+                        "LA en Marketing (Vente et négociation commerciale)",
+                        "LA en Economie et Finance internationales (Techniques du Commerce international)",
+                        "LA en Finance (Gestion des Etablissements financiers)",
+                        "LA en gestion des affaires (Gestion hôteli ère te touristique)",
+                        "LA en Economie des organisations et des réseaux (Entreprenariat et gestion des projets)",
+                        "LA en Informatique de gestion (Commerce Electronique)",
+                        "LF en Economie (Monnaie, finance et banque)",
+                        "LF en Informatique de gestion",
+                        "LF en Gestion (Finance / Marketing / Management",
+                        "Management touristique et hôtelier",
+                        "Négociation commerciale et distribution",
+                        "Ingénierie financière",
+                        "Entreprenariat",
+                        "Gestion des organisations"
+                    ]
+                },
+                "Ecole Supérieure de Commerce Electronique de la Manouba": {
+                    "faculty_name": "Ecole Supérieure de Commerce Electronique de la Manouba",
+                    "faculty_link": "Universite-de-la-Manouba/ecole-superieure-de-commerce-electronique-de-la-manouba.html",
+                    "degrees": [
+                        "LA en Informatique de gestion (Commerce Electronique / E-services)"
+                    ]
+                },
+                "Ecole Nationale des Sciences de l'Informatique": {
+                    "faculty_name": "Ecole Nationale des Sciences de l'Informatique",
+                    "faculty_link": "Universite-de-la-Manouba/ecole-nationale-des-sciences-de-l-informatique.html",
+                    "degrees": [
+                        "Bio informatique",
+                        "Sécurité informatique",
+                        "Informatique, option : Réseaux et images",
+                        "Informatique, option : Génie documentiel et logiciel",
+                        "Diplôme national d'ingénieur en statistique et analyse de l'informatique",
+                        "Diplôme national d'ingénieur en informatique, option : Syst èmes et réseaux informatiques",
+                        "Diplôme national d'ingénieur en informatique, option : Génie informatique et applications technologiques",
+                        "Diplôme national d'ingénieur en informatique, option : Génie systèmes d'information et communication",
+                        "Diplôme national d'ingénieur en informatique, option : Génie informatique"
+                    ]
+                }
+                
+            }
+        },
+        "11": {
+          "university_name": "Université de Kairouan",
+          "link": "UniversityKairouan",
+          "image": "Universities/kairouan.png",
+
+          "Faculties": {
+              "www.univ-k.rnu.tn": {
+                  "faculty_name": "www.univ-k.rnu.tn",
+                  "faculty_link": "http://www.univ-k.rnu.tn/",
+                  "degrees": []
+              },
+              "Faculté des Lettres et des Sciences Humaines de Kairouan": {
+                  "faculty_name": "Faculté des Lettres et des Sciences Humaines de Kairouan",
+                  "faculty_link": "Universite-de-Kairouan/faculte-des-lettres-et-des-sciences-humaines-de-kairouan.html",
+                  "degrees": [
+                      "LA en Design Image",
+                      "LA en Gestion & développement du patrimoine archeologique",
+                      "LA en Multimédia appliqué au patrimoine",
+                      "LA en Espagnol",
+                      "LA en Italien",
+                      "LA en Français",
+                      "LA en Anglais (Anglais des affaires)",
+                      "LA en Animation touristique",
+                      "LF en philosophie",
+                      "LF en Méthodes et techniques d'archéologie",
+                      "LF en langue, littérature et civilisation françaises",
+                      "LF en langue, littérature et civilisation anglaises",
+                      "LF en langue, littérature et civilisation arabes",
+                      "Etudes comparatives en langue, littérature et civilisation"
+                  ]
+              },
+              "Institut Supérieur des Arts et Métiers de Kairouan": {
+                  "faculty_name": "Institut Supérieur des Arts et Métiers de Kairouan",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-des-arts-et-metiers-de-kairouan.html",
+                  "degrees": [
+                      "LA en Design Image (Publicité graphique / Illustration et bande dessinée)",
+                      "LA en Arts Plastiques (Céramique / Verrerie / Tissage / Mosaïque)",
+                      "LA en Design Produit (Création industrielle / Création artisanale / Mobilier / Bijoux)"
+                  ]
+              },
+              "Institut Supérieur d 'Informatique et de Gestion de Kairouan": {
+                  "faculty_name": "Institut Supérieur d 'Informatique et de Gestion de Kairouan",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-d-informatique-et-de-gestion-de-kairouan.html",
+                  "degrees": [
+                      "LA en Marketing (Web Marketing)",
+                      "LA en Economie et finances internationales (Banque et assurance)",
+                      "LA en Réseaux informatiques (technologies des réseaux informatiques)",
+                      "LA en Informatique de gestion (E-services)",
+                      "LA en Comptabilité (Techniques comptables et financières)",
+                      "LF en gestion (Administration des affaires)",
+                      "LF en sciences de l2'Informatique"
+                  ]
+              },
+              "Institut Supérieur des Etudes Juridiques et Politiques de Kairouan": {
+                  "faculty_name": "Institut Supérieur des Etudes Juridiques et Politiques de Kairouan",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-des-etudes-juridiques-et-politiques-de-kairouan.html",
+                  "degrees": [
+                      "LA en Droit du commerce international",
+                      "LA en Droit de l'2Entreprise et des affaires",
+                      "LA en Droit des affaires foncières"
+                  ]
+              },
+              "Institut Supérieur des Sciences Appliquées et de Technologie de Kairouan": {
+                  "faculty_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Kairouan",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-des-sciences-appliquees-et-de-technologie-de-kairouan.html",
+                  "degrees": [
+                      "LA en Génie Mécanique ( Mécanique, productique et informatique industrielle)",
+                      "LA en Electronique, Electrotechnique et Automatique"
+                  ]
+              },
+              "Institut Supérieur des Arts et Métiers de Kasserine": {
+                  "faculty_name": "Institut Supérieur des Arts et Métiers de Kasserine",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-des-arts-et-metiers-de-kasserine.html",
+                  "degrees": [
+                      "LA en Design Espace (Architecture d'2intérieu...",
+                      "LA en Design Produit (Création artisanale / Mobilier)"
+                  ]
+              },
+              "Institut Supérieur des Mathématiques Appliquées et de l'Informatique de Kairouan": {
+                  "faculty_name": "Institut Supérieur des Mathématiques Appliquées et de l'Informatique de Kairouan",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-des-mathematiques-appliquees-et-de-l-informatique-de-kairouan.html",
+                  "degrees": [
+                      "LA en Droit du commerce international",
+                      "LA en Droit de l'2entreprise et des affaires",
+                      "LA en Droit des affaires foncières"
+                  ]
+              },
+              "Institut Supérieur des Etudes Appliquées en Sciences Humaines de Sbeïtla": {
+                  "faculty_name": "Institut Supérieur des Etudes Appliquées en Sciences Humaines de Sbeïtla",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-des-etudes-appliquees-en-sciences-humaines-de-sbeitla.html",
+                  "degrees": [
+                      "LA en Animation touristique",
+                      "LA en Espagnol",
+                      "LA en Anglais (Anglais des affaires)"
+                  ]
+              },
+              "Institut Supérieur des Arts et Métiers de Sidi Bouzid": {
+                  "faculty_name": "Institut Supérieur des Arts et Métiers de Sidi Bouzid",
+                  "faculty_link": "Universite-de-Kairouan/institut-superieur-des-arts-et-metiers-de-sidi-bouzid.html",
+                  "degrees": [
+                      "LA en Design Produit (Création artisanale /Mobilier)",
+                      "LA en Design Espace (Architecture d'2intérieu..."
+                  ]
+              }
+          }
+      },
+      "13": {
+        "university_name": "Université de Gabès",
+        "image": "Universities/gabes.png",
+      "link": "UniversityGabes",
+        "Faculties": {
+            "Faculté des Sciences de Gabès": {
+                "faculty_name": "Faculté des Sciences de Gabès",
+                "faculty_link": "Universite-de-Gabes/faculte-des-sciences-de-gabes.html",
+                "degrees": [
+                    "LA en géologie des grands traveaux",
+                    "LA en réseaux informatiques (Administration des réseaux et des services)",
+                    "LA en Protection de l'2environnement (Contrôle biologique de l'2environnement)",
+                    "LA en Informatique (Technologies de l'2informatique et du multimédia)",
+                    "LA en Biologie analytique et expérimentale",
+                    "LA en Chimie (Recyclage et valorisation des déchets / Chimie Fine)",
+                    "LA en Physique (Instrumentation)",
+                    "LF en Sciences de la Terre",
+                    "LF en Sciences de la vie",
+                    "Cycle préparatoire scientifique",
+                    "LF en Sciences de l'2informatique",
+                    "LF en Mathématiques (Mathématiques, Mathématiques et applications)",
+                    "LF en Chimie",
+                    "LF en Physique"
+                ]
+            },
+            "Ecole Nationale d'Ingénieurs de Gabès": {
+                "faculty_name": "Ecole Nationale d'Ingénieurs de Gabès",
+                "faculty_link": "Universite-de-Gabes/ecole-nationale-d-ingenieurs-de-gabes.html",
+                "degrees": [
+                    "Génie civil",
+                    "Automatique et techniques intelligentes",
+                    "Génie chimique des procédés",
+                    "Diplôme national d'2ingénieur en génie électrique -automatique",
+                    "Diplôme national d'2ingénieur en génie des télécommunications - réseaux-",
+                    "Diplôme national d'2ingénieur en génie civil",
+                    "Diplôme national d'2ingénieur en génie chimique des procédés"
+                ]
+            },
+            "Institut Supérieur de Gestion de Gabès": {
+                "faculty_name": "Institut Supérieur de Gestion de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-de-gestion-de-gabes.html",
+                "degrees": [
+                    "LA en Informatique de gestion (Technologies des syst èmes d2information / Commerce électronique)",
+                    "LF en informatique de gestion",
+                    "LA en Economie et gestion quantitatives (Ingénierie des informations économiques et statistiques)",
+                    "LA en Management (Gestion des entreprises)",
+                    "LF en gestion (Comptabilité / Finance)",
+                    "Génie financi ère"
+                ]
+            },
+            "Institut Supérieur des Langues de Gabès": {
+                "faculty_name": "Institut Supérieur des Langues de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-langues-de-gabes.html",
+                "degrees": [
+                    "LA en anglais (Anglais des affaires)",
+                    "LA en Français",
+                    "LA en Italien",
+                    "LA en Allemand",
+                    "LF en langue, littérature et civilisation anglaises",
+                    "LF en langue, littérature et civilisation françaises"
+                ]
+            },
+            "Institut Supérieur des Arts et Métiers de Gabès": {
+                "faculty_name": "Institut Supérieur des Arts et Métiers de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-arts-et-metiers-de-gabes.html",
+                "degrees": [
+                    "LF en en Arts de la Musique et Musicologie (Musique et musicologie)",
+                    "LA en Design Produit (Création artisanale / Création industrielle)",
+                    "LA en Design Espace (Architecture d'2intérieu...",
+                    "LA en Design Image (Publicité audiovisuelle / Signalétique)",
+                    "LA en Arts Plastiques (Céramique / Gravure / Sculpture / Photographie)",
+                    "LF en Design (Image / Espace)",
+                    "LF en Arts Visuels (arts plastiques)",
+                    "LA en Design Produit (Création artisanale / Création industrielle)",
+                    "Esthétiques et techniques des arts",
+                    "Diplôme national en art et métiers"
+                ]
+            },
+            "Institut Supérieur de Biologie Appliquée de Medenine": {
+                "faculty_name": "Institut Supérieur de Biologie Appliquée de Medenine",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-de-biologie-appliquee-de-medenine.html",
+                "degrees": [
+                    "LA en Protection de l'2environnement (Gestion et valorisation des Bio-ressources)",
+                    "LA en biothecnologie (Valorisation des bioressources dans les zônes arides)",
+                    "LA en Agroalimentaire et nutrition (Industries biologiques / Contrôle de la qualité des aliments)"
+                ]
+            },
+            "Institut Supérieur des Etudes Juridiques de Gabès": {
+                "faculty_name": "Institut Supérieur des Etudes Juridiques de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-etudes-juridiques-de-gabes.html",
+                "degrees": [
+                    "LA en Droit des entreprises et des affaires",
+                    "LA en Fiscalité de l'2Entreprise"
+                ]
+            },
+            "Institut Supérieur d 'Informatique et de Multimédia de Gabès": {
+                "faculty_name": "Institut Supérieur d 'Informatique et de Multimédia de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-d-informatique-et-de-multimedia-de-gabes.html",
+                "degrees": [
+                    "LA en syst èmes de communication et multimédia industrielle",
+                    "LF en sciences de l'2informatique (Informatique et multimédia)",
+                    "LA en Informatique (technologies du multimédia et du web)"
+                ]
+            },
+            "Institut Supérieur des Sciences Appliquées et de Technologie de Gabès": {
+                "faculty_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-sciences-appliquees-et-de-technologie-de-gabes.html",
+                "degrees": [
+                    "Cycle préparatoire: Biologie-Géologie",
+                    "LA en Electromécanique (productique / mécanique et Electronique des syst èmes automatiques)",
+                    "LA en Chimie (Chimie Industrielle et Proc èdés)",
+                    "LA en Génie civil (Construction et équipements techniques / travaux lics)",
+                    "Cycle préparatoire - technique",
+                    "Cycle préparatoire - scientifique",
+                    "Technologie",
+                    "Physique 6 Chimie",
+                    "Math - Physique"
+                ]
+            },
+            "Institut Supérieur des Sciences et Techniques des Eaux de Gabès": {
+                "faculty_name": "Institut Supérieur des Sciences et Techniques des Eaux de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-sciences-et-techniques-des-eaux-de-gabes.html",
+                "degrees": [
+                    "LA en Sciences et techniques des Eaux"
+                ]
+            },
+            "Institut Supérieur des Syst èmes Industriels de Gabès": {
+                "faculty_name": "Institut Supérieur des Syst èmes Industriels de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-systemes-industriels-de-gabes.html",
+                "degrees": [
+                    "LA en EEA (méthodes de maîtrise des procédés industriels/ Electronique industrielle)",
+                    "LA en Electro mècanique (Maintenance industrielle)"
+                ]
+            },
+            "Institut Supérieur des Etudes Appliquées en Humanités de Médenine": {
+                "faculty_name": "Institut Supérieur des Etudes Appliquées en Humanités de Médenine",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-etudes-appliquees-en-humanites-de-medenine.html",
+                "degrees": [
+                    "LA en Anglais",
+                    "LA en Allemand",
+                    "LA en Français"
+                ]
+            },
+            "Institut Supérieur d'Informatique de Medenine": {
+                "faculty_name": "Institut Supérieur d'Informatique de Medenine",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-d-informatique-de-medenine.html",
+                "degrees": [
+                    "LA en Informatique industrielle (syst èmes embarqués / syst èmes et automatismes)",
+                    "LA en Informatique ( technologies du multimédia et du web)"
+                ]
+            },
+            "Institut Supérieur des Arts et Métiers de Tataouine": {
+                "faculty_name": "Institut Supérieur des Arts et Métiers de Tataouine",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-arts-et-metiers-de-tataouine.html",
+                "degrees": [
+                    "LA en Design Produit (Création artisanale / Bijoux)"
+                ]
+            },
+            "Institut Supérieur des Sciences infirmi ères de Gabès": {
+                "faculty_name": "Institut Supérieur des Sciences infirmi ères de Gabès",
+                "faculty_link": "Universite-de-Gabes/institut-superieur-des-sciences-infirmieres-de-gabes.html",
+                "degrees": [
+                    "LA en Sciences Infirmi ères"
+                ]
+            }
+        }
+    }
+    
+      
+    }
+    
+      
+    
+    
+     
+    
+    
+  
+  
