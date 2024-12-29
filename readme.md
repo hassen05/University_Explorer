@@ -14,7 +14,8 @@ The **University Explorer** is a Streamlit web application that allows users to 
 - MongoDB server running locally
 
 ### Dependencies
-
+### Notice
+This project uses MangoDB, I've included a json file in this repo of the structure of the database
 To install the necessary Python dependencies, run:
 
 ```bash

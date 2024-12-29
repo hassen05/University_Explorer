@@ -3,12 +3,14 @@ import pymongo
 from PIL import Image
 import os
 
+
 # MongoDB Connection
 @st.cache_resource
 def get_database():
     """Connect to MongoDB and return the database object."""
     client = pymongo.MongoClient("mongodb://localhost:27017/", serverSelectionTimeoutMS=5000)
     return client["university_data"]
+
 
 @st.cache_data
 def load_universities():
@@ -17,21 +19,53 @@ def load_universities():
     collection = db["universities"]
     return collection.find_one()
 
-# Custom CSS for enhanced styling
+
+# Custom CSS for Design Improvements
 st.markdown(
     """
     <style>
     .stApp {
-        background-color: #f0f4f8;
+        background-color: #fafafa; /* Soft background color */
+        font-family: 'Arial', sans-serif;
     }
     .university-card {
         background-color: white;
-        border-radius: 15px;
-        box-shadow: 0 6px 12px rgba(0,0,0,0.1);
-        padding: 15px;
+        border-radius: 20px;
+        box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        padding: 20px;
         margin-bottom: 20px;
         transition: transform 0.3s ease, box-shadow 0.3s ease;
         text-align: center;
+        cursor: pointer;
+    }
+    .university-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    }
+    .university-card img {
+        border-radius: 10px;
+        object-fit: cover;
+        max-width: 100%;
+        max-height: 200px;
+    }
+    .search-box input {
+        border-radius: 8px;
+        padding: 10px;
+        width: 80%;
+        margin-bottom: 20px;
+        border: 1px solid #ddd;
+    }
+    .search-box button {
+        border-radius: 8px;
+        padding: 10px 15px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .search-box button:hover {
+        background-color: #45a049;
     }
     </style>
     """,
@@ -46,36 +80,40 @@ st.markdown("*Discover Universities, Faculties, and Degrees*")
 tab1, tab2, tab3 = st.tabs(["Universities", "AI Assistant", "Search"])
 
 with tab1:
-    # Load university data from MongoDB
     data = load_universities()
 
-    # University Selection
     st.header("Universities")
-    cols = st.columns(3)
+
+    # Create a uniform grid with 3 columns
+    cols = st.columns(3, gap="large")
+
+    image_width = 200
+    image_height = 200
 
     for idx, (key, university) in enumerate(data.items()):
-        if key.isdigit():  # Skip if the key is not a university entry (e.g., '0')
-            col = cols[idx % 3]
+        if key.isdigit():
+            col = cols[idx % 3]  # Use modulus to loop through columns
 
             with col:
-                # Display university information
+                # Set up consistent padding and layout
                 uni_name = university.get("university_name", "Unknown University")
                 image_path = university.get("image", "")
 
-                # Load and display image
+                # Display the image with fixed size
                 try:
                     if os.path.exists(image_path):
                         img = Image.open(image_path)
+                        img = img.resize((image_width, image_height))  # Resize to fixed dimensions
                         st.image(img, use_container_width=True)
                     else:
                         st.write(f"Image not found: {image_path}")
                 except Exception as e:
                     st.write(f"Error loading image: {e}")
 
-                if st.button(uni_name, key=uni_name):
-                    st.session_state.selected_university = university  # Store the full university document
+                # Add a button below the image with a hover effect
+                if st.button(uni_name, key=f"button_{uni_name}"):
+                    st.session_state.selected_university = university
 
-    # Faculty and Degree Display
     if "selected_university" in st.session_state:
         selected_uni = st.session_state.selected_university
 
@@ -99,7 +137,7 @@ with tab1:
                 st.write("No degrees listed for this faculty.")
 
 with tab2:
-    # Embed Chatbot iframe
+    # AI Assistant tab with better layout
     st.header("AI Assistant")
     st.components.v1.iframe(
         "https://www.chatbase.co/chatbot-iframe/5VCFQ8H4CmPuKho-f_gOX",
@@ -113,37 +151,37 @@ with tab3:
     search_query = st.text_input("Enter a degree name or faculty name to search:")
 
     if search_query:
-        # Perform case-insensitive search in MongoDB
-        db = get_database()
-        collection = db["universities"]
+        data = load_universities()
 
-        results = collection.find(
-            {
-                "$or": [
-                    {"Faculties.faculty_name": {"$regex": search_query, "$options": "i"}},
-                    {"Faculties.degrees": {"$regex": search_query, "$options": "i"}},
-                ]
-            }
-        )
-
-        # Display Results
         st.subheader("Search Results")
         has_results = False
 
-        for university in results:
-            has_results = True
-            uni_name = university.get("university_name", "Unknown University")
-            st.markdown(f"### {uni_name}")
+        for key, university in data.items():
+            if key.isdigit():
+                uni_name = university.get("university_name", "Unknown University")
+                faculties = university.get("Faculties", {})
 
-            faculties = university.get("Faculties", {})
-            for faculty_name, faculty_info in faculties.items():
-                if search_query.lower() in faculty_name.lower():
-                    st.markdown(f"**Faculty:** {faculty_info['faculty_name']}")
+                university_shown = False
 
-                degrees = faculty_info.get("degrees", [])
-                for degree in degrees:
-                    if search_query.lower() in degree.lower():
-                        st.markdown(f"- **Degree:** {degree}")
+                for faculty_info in faculties.values():
+                    faculty_name = faculty_info.get("faculty_name", "")
+                    degrees = faculty_info.get("degrees", [])
+
+                    matching_degrees = [d for d in degrees if search_query in d.lower()]
+                    faculty_matches = search_query in faculty_name.lower()
+
+                    if faculty_matches or matching_degrees:
+                        has_results = True
+
+                        if not university_shown:
+                            st.markdown(f"### {uni_name}")
+                            university_shown = True
+
+                        st.markdown(f"**Faculty:** {faculty_name}")
+
+                        if matching_degrees:
+                            for degree in matching_degrees:
+                                st.markdown(f"- **Degree:** {degree}")
 
         if not has_results:
             st.write("No results found for your search query.")
